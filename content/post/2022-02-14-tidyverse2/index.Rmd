@@ -1,0 +1,38 @@
+---
+title: Tidyverse2
+author: R package build
+date: '2022-02-14'
+slug: tidyverse2
+categories: []
+tags: []
+---
+
+
+
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+url <- 'https://raw.githubusercontent.com/amanks5/tidyverse/main/hotels.csv'
+hotels <- read_csv(url)
+```
+
+###Summary of glimpse 
+```{r}
+glimpse(hotels)
+
+```
+
+```{r}
+hotels %>% 
+  select(hotel, lead_time) %>%
+  arrange(desc(lead_time))
+```
+
+
+
+
+
