@@ -1,0 +1,141 @@
+---
+title: R Markdown CO1 RMD
+author: R package build
+date: '2022-02-17'
+slug: r-markdown-co1-rmd
+categories: []
+tags: []
+---
+
+```{r,warning=FALSE,message=FALSE,results=FALSE}
+library(datasets)
+data(iris)
+#load packages
+pkgs <- c("rstatix","emmeans","psych","tidyr","tidyverse","psych","dplyr","ggplot2","lm.beta","car","Hmisc","skimr","janitor")
+lapply(pkgs, library, character.only = TRUE)
+setwd("/Users/aman/OneDrive/Junior2/git/website_AmanShaan/content/post/2022-02-17-r-markdown-co1-rmd")
+```
+
+
+# Intro
+
+
+## Code Chunks
+
+```{r}
+
+```
+* Most common
+* Use ` (backquote) not ' (apostophe)
+
+```{r}
+#Sum of 2 + 2
+2+2
+
+#Average Sepal Length
+mean(iris$Sepal.Length)
+```
+* When exporting you will see both of these outputs, but will only see the last one within rmd.  
+* You can also click the x on the upper right corner of the output to remove the output.
+
+```{r}
+#Levels of Species
+unique(iris$Species)
+```
+
+## Inline Code
+Two plus two equals `r 2+2`.  
+The average Sepal Length is `r mean(iris$Sepal.Length)`.  
+The three levels of Species are `r unique(iris$Species)`.  
+
+# Basics
+
+## Text
+
+Plain text  
+End a line with two spaces to start a new paragraph.  
+*italics* and _italics_  
+**bold** and __bold__  
+superscript^2^  
+~~strikethrough~~  
+[link](www.rstudio.com)  
+
+## Headers (level 2)
+```{r,eval=FALSE}
+Make sure to leave a space between the # and your text  
+# Header 1
+## Header 2
+```
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+## Symbols
+endash: --  
+emdash: ---  
+ellipsis: ...  
+inline equation: $A = \pi*r^{2}$  
+
+horizontal rule (or slide break):  
+
+***
+
+## Formatting
+
+> block quote  
+
+
+* unordered list  
+* item 2  
+  + sub-item 1  (one tab)
+  + sub-item 2  (one tab)
+
+
+1. ordered list  
+2. item 2
+    + sub-item 1 (two tabs)
+    + sub-item 2 (two tabs)
+  
+First Header | Second Header
+------------- | -------------
+Table Cell 1 | Cell 2
+Cell 3 | Cell 4 
+
+## Date
+```{r,eval=FALSE}
+#Add this to date so that today's date is printed whenever doc is knitted
+title: "Rmarkdown_Intro"
+author: "Aman Shaan"
+date: "`2/17/2021`"
+```
+
+>Most of this information was taken from this useful [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+# Code Specifications
+
+## Display Code
+```{r,echo=FALSE,eval=FALSE}
+echo=TRUE: Whether to display code along with results
+Default is echo=TRUE
+```
+
+```{r,echo=FALSE}
+summary(iris)
+```
+
+## Display Warnings
+```{r,warning=FALSE,eval=FALSE}
+warning=TRUE: Whether to display warnings
+```
+
+### With Warning
+```{r,warning=TRUE}
+data <- data.frame(x = 1:5,         # Create example data
+                   y = 1:5)
+ggp <- ggplot(data, aes(x, y)) +    # Create ggplot2 with default axis limits
+  geom_point()
+
+ggp +                               # Modify axis limits
+  scale_x_continuous(limits = c(2, 5))
+```

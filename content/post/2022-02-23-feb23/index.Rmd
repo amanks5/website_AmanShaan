@@ -1,0 +1,45 @@
+---
+title: Feb23
+author: R package build
+date: '2022-02-23'
+slug: feb23
+categories: []
+tags: []
+---
+
+```{r}
+file <- "https://raw.githubusercontent.com/dearbharat/tidyverse/main/nobel.csv"
+nobel <- read_csv(file)
+nobel
+
+```
+
+```{r}
+
+df <- tribble(
+  ~x, ~y,
+  1,  "a",
+  2,  "b",
+  3,  "c"
+)
+write_csv(df, file = "df.csv")
+
+
+read_csv("df.csv")
+
+
+```
+
+```{r}
+
+
+
+
+```
+
+```{r}
+
+
+
+
+```

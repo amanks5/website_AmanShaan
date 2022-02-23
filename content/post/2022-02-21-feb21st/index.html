@@ -1,0 +1,71 @@
+---
+title: Feb21st
+author: R package build
+date: '2022-02-21'
+slug: feb21st
+categories: []
+tags: []
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
+## ✓ tibble  3.1.6     ✓ dplyr   1.0.8
+## ✓ tidyr   1.2.0     ✓ stringr 1.4.0
+## ✓ readr   2.1.2     ✓ forcats 0.5.1</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>catlovers &lt;- &quot;https://raw.githubusercontent.com/dearbharat/tidyverse/main/cat-lovers.csv&quot;
+
+cat_lovers &lt;- read_csv(catlovers)</code></pre>
+<pre><code>## Rows: 60 Columns: 3</code></pre>
+<pre><code>## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr (3): name, number_of_cats, handedness
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<pre class="r"><code>glimpse(catlovers)</code></pre>
+<pre><code>##  chr &quot;https://raw.githubusercontent.com/dearbharat/tidyverse/main/cat-lovers.csv&quot;</code></pre>
+<pre class="r"><code>cat_lovers %&gt;%
+  summarise(mean_cats = mean(number_of_cats))</code></pre>
+<pre><code>## Warning in mean.default(number_of_cats): argument is not numeric or logical:
+## returning NA</code></pre>
+<pre><code>## # A tibble: 1 × 1
+##   mean_cats
+##       &lt;dbl&gt;
+## 1        NA</code></pre>
+<pre class="r"><code>cat_lovers %&gt;%
+  mutate(number_of_cats = case_when(
+    name == &quot;Ginger Clark&quot; ~ 2,
+    name == &quot;Doug Bass&quot;    ~ 3,
+    TRUE                   ~ as.numeric(number_of_cats)
+    )) %&gt;%
+  summarise(mean_cats = mean(number_of_cats))</code></pre>
+<pre><code>## Warning in eval_tidy(pair$rhs, env = default_env): NAs introduced by coercion</code></pre>
+<pre><code>## # A tibble: 1 × 1
+##   mean_cats
+##       &lt;dbl&gt;
+## 1     0.833</code></pre>
+<div id="numeric-data-summarization" class="section level3">
+<h3>Numeric Data Summarization</h3>
+<pre class="r"><code>cat_lovers %&gt;%
+  mutate(
+    number_of_cats = case_when(
+      name == &quot;Ginger Clark&quot; ~ &quot;2&quot;,
+      name == &quot;Doug Bass&quot;    ~ &quot;3&quot;,
+      TRUE                   ~ number_of_cats
+      ),
+    number_of_cats = as.numeric(number_of_cats)
+    ) %&gt;%
+  summarise(mean_cats = mean(number_of_cats))</code></pre>
+<pre><code>## # A tibble: 1 × 1
+##   mean_cats
+##       &lt;dbl&gt;
+## 1     0.833</code></pre>
+<pre class="r"><code>#</code></pre>
+</div>

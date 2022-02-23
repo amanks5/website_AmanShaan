@@ -1,0 +1,65 @@
+---
+title: Feb21st
+author: R package build
+date: '2022-02-21'
+slug: feb21st
+categories: []
+tags: []
+---
+
+```{r}
+library(tidyverse)
+catlovers <- "https://raw.githubusercontent.com/dearbharat/tidyverse/main/cat-lovers.csv"
+
+cat_lovers <- read_csv(catlovers)
+
+```
+
+```{r}
+glimpse(catlovers)
+cat_lovers %>%
+  summarise(mean_cats = mean(number_of_cats))
+
+```
+
+```{r}
+
+cat_lovers %>%
+  mutate(number_of_cats = case_when(
+    name == "Ginger Clark" ~ 2,
+    name == "Doug Bass"    ~ 3,
+    TRUE                   ~ as.numeric(number_of_cats)
+    )) %>%
+  summarise(mean_cats = mean(number_of_cats))
+
+```
+
+
+### Numeric Data Summarization 
+```{r}
+
+cat_lovers %>%
+  mutate(
+    number_of_cats = case_when(
+      name == "Ginger Clark" ~ "2",
+      name == "Doug Bass"    ~ "3",
+      TRUE                   ~ number_of_cats
+      ),
+    number_of_cats = as.numeric(number_of_cats)
+    ) %>%
+  summarise(mean_cats = mean(number_of_cats))
+#
+
+```
+
+```{r}
+
+
+
+```
+
+```{r}
+
+
+
+```
