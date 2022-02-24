@@ -106,7 +106,12 @@ library(tidyverse)
 favfood <- "https://raw.githubusercontent.com/dearbharat/tidyverse/main/favourite-food.csv"
 
 fav_food <- read_csv(favfood,na = c("N/A", "99999"))%>%
-janitor::clean_names()
+janitor::clean_names() %>%
+mutate(
+    age = if_else(age == "five", "5", age), 
+    age = as.numeric(age),
+    ses = fct_relevel(ses, "Low", "Middle", "High")
+  )
 fav_food
 
 
@@ -149,6 +154,44 @@ fav_food %>%
 ```{r}
 
 
-
+write_csv(fav_food, file = "fav-food-clean.csv" )
+fav_food_clean <- read_csv("fav-food-clean.csv", show_col_types = FALSE)
 
 ```
+
+```{r}
+fav_food_clean %>%
+  count(ses)
+```
+
+```{r}
+write_rds(fav_food, file = "fav-food-clean.rds")
+fav_food_clean <- read_rds("fav-food-clean.rds")
+fav_food_clean %>%
+  count(ses)
+```
+
+
+```{r load-packages, message=FALSE}
+library(tidyverse)
+library(readxl)
+```
+
+-   Read in the Excel file called `sales.xlsx` from the `data-raw/` folder such that it looks like the following.
+
+```{r echo=FALSE, out.width="20%"}
+read_excel("https://github.com/rstudio-education/datascience-box/blob/main/course-materials/application-exercises/ae-06-nobels-sales-dataimport/data-raw/sales.xlsx?raw=true")
+```
+
+```{r}
+```
+
+-   **Stretch goal:** Manipulate the sales data such such that it looks like the following.
+
+```{r echo=FALSE, out.width="25%"}
+knitr::include_graphics("images/sales-2.png")
+```
+
+```{r}
+```
+

@@ -6,9 +6,27 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Feb21st</title>
+      <title>Excercise 2</title>
+      <link>/2022/02/23/excercise-2/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/02/23/excercise-2/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Excercise 3</title>
+      <link>/2022/02/23/feb23/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/02/23/feb23/</guid>
+      <description>library(tidyverse) ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ── ## ✓ ggplot2 3.3.5 ✓ purrr 0.3.4 ## ✓ tibble 3.1.6 ✓ dplyr 1.0.8 ## ✓ tidyr 1.2.0 ✓ stringr 1.4.0 ## ✓ readr 2.1.2 ✓ forcats 0.5.1 ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ── ## x dplyr::filter() masks stats::filter() ## x dplyr::lag() masks stats::lag() file &amp;lt;- &amp;quot;https://raw.githubusercontent.com/dearbharat/tidyverse/main/nobel.csv&amp;quot; nobel &amp;lt;- read_csv(file) ## Rows: 935 Columns: 26 ## ── Column specification ──────────────────────────────────────────────────────── ## Delimiter: &amp;quot;,&amp;quot; ## chr (21): firstname, surname, category, affiliation, city, country, gender,.</description>
+    </item>
+    
+    <item>
+      <title>Excercise 1</title>
       <link>/2022/02/21/feb21st/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
