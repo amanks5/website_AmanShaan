@@ -1,5 +1,5 @@
 ---
-title: Feb21st
+title: Excercise 1
 author: R package build
 date: '2022-02-21'
 slug: feb21st
@@ -54,7 +54,15 @@ cat_lovers %>%
 
 ```{r}
 
-
+cat_lovers <- cat_lovers %>%
+  mutate(
+    number_of_cats = case_when(
+      name == "Ginger Clark" ~ "2",
+      name == "Doug Bass"    ~ "3",
+      TRUE                   ~ number_of_cats
+      ),
+    number_of_cats = as.numeric(number_of_cats)
+    )
 
 ```
 
@@ -62,4 +70,82 @@ cat_lovers %>%
 
 
 
+```
+
+-   `c(1, 1L, "C")`
+
+```{r}
+c(1, 1L, "C")
+```
+
+```{r}
+1
+1L
+"C"
+```
+
+```{r}
+## int int char 
+```
+
+-   `c(1L / 0, "A")`
+
+```{r}
+c(1L / 0, "A")
+```
+
+```{r}
+typeof(1L)
+typeof(0)
+typeof(1L/0)
+typeof("A")
+```
+
+```{r}
+#integer , double 
+```
+
+-   `c(1:3, 5)`
+
+```{r}
+c(1:3, 5)
+```
+
+```{r}
+typeof(1:3)
+typeof(5)
+```
+
+```{r}
+#double character 
+```
+
+-   `c(3, "3+")`
+
+```{r}
+c(3, "3+")
+```
+
+```{r}
+typeof(3)
+typeof("3+")
+```
+
+```{r}
+#logical , logical 
+```
+
+-   `c(NA, TRUE)`
+
+```{r}
+c(NA, TRUE)
+```
+
+```{r}
+typeof(NA)
+typeof(TRUE)
+```
+
+```{r}
+#logical logical 
 ```

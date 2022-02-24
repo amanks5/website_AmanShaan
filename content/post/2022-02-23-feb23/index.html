@@ -1,5 +1,5 @@
 ---
-title: Feb23
+title: Excercise 3
 author: R package build
 date: '2022-02-23'
 slug: feb23
@@ -75,3 +75,210 @@ read_csv(&quot;df.csv&quot;)</code></pre>
 ## 1     1 a    
 ## 2     2 b    
 ## 3     3 c</code></pre>
+<pre class="r"><code>nobel_stem &lt;- nobel %&gt;%
+  filter(category==&#39;Physics&#39; | category==&#39;Medicine&#39; | category==&#39;Chemistry&#39; | category==&#39;Economics&#39;)
+
+
+# non-steam laureates
+nobel_nonstem &lt;- nobel %&gt;%
+  filter(category!=&#39;Physics&#39; &amp; category!=&#39;Medicine&#39; &amp; category!=&#39;Chemistry&#39; &amp; category!=&#39;Economics&#39;)</code></pre>
+<pre class="r"><code>write_csv(nobel_stem, file = &quot;nobel_stem.csv&quot;)
+
+write_csv(nobel_nonstem, file = &quot;nobel_nonstem.csv&quot;)
+
+read_csv(&quot;nobel_stem.csv&quot;)</code></pre>
+<pre><code>## Rows: 688 Columns: 26
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr  (21): firstname, surname, category, affiliation, city, country, gender,...
+## dbl   (3): id, year, share
+## date  (2): born_date, died_date
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<pre><code>## # A tibble: 688 × 26
+##       id firstname   surname  year category affiliation city  country born_date 
+##    &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;   &lt;dbl&gt; &lt;chr&gt;    &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt;   &lt;date&gt;    
+##  1     1 Wilhelm Co… Röntgen  1901 Physics  Munich Uni… Muni… Germany 1845-03-27
+##  2     2 Hendrik A.  Lorentz  1902 Physics  Leiden Uni… Leid… Nether… 1853-07-18
+##  3     3 Pieter      Zeeman   1902 Physics  Amsterdam … Amst… Nether… 1865-05-25
+##  4     4 Henri       Becque…  1903 Physics  École Poly… Paris France  1852-12-15
+##  5     5 Pierre      Curie    1903 Physics  École muni… Paris France  1859-05-15
+##  6     6 Marie       Curie    1903 Physics  &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1867-11-07
+##  7     6 Marie       Curie    1911 Chemist… Sorbonne U… Paris France  1867-11-07
+##  8     8 Lord        Raylei…  1904 Physics  Royal Inst… Lond… United… 1842-11-12
+##  9     9 Philipp     Lenard   1905 Physics  Kiel Unive… Kiel  Germany 1862-06-07
+## 10    10 J.J.        Thomson  1906 Physics  University… Camb… United… 1856-12-18
+## # … with 678 more rows, and 17 more variables: died_date &lt;date&gt;, gender &lt;chr&gt;,
+## #   born_city &lt;chr&gt;, born_country &lt;chr&gt;, born_country_code &lt;chr&gt;,
+## #   died_city &lt;chr&gt;, died_country &lt;chr&gt;, died_country_code &lt;chr&gt;,
+## #   overall_motivation &lt;chr&gt;, share &lt;dbl&gt;, motivation &lt;chr&gt;,
+## #   born_country_original &lt;chr&gt;, born_city_original &lt;chr&gt;,
+## #   died_country_original &lt;chr&gt;, died_city_original &lt;chr&gt;, city_original &lt;chr&gt;,
+## #   country_original &lt;chr&gt;</code></pre>
+<pre class="r"><code>read_csv(&quot;nobel_nonstem.csv&quot;)</code></pre>
+<pre><code>## Rows: 247 Columns: 26
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr  (20): firstname, surname, category, affiliation, city, country, gender,...
+## dbl   (3): id, year, share
+## lgl   (1): overall_motivation
+## date  (2): born_date, died_date
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<pre><code>## # A tibble: 247 × 26
+##       id firstname   surname  year category affiliation city  country born_date 
+##    &lt;dbl&gt; &lt;chr&gt;       &lt;chr&gt;   &lt;dbl&gt; &lt;chr&gt;    &lt;chr&gt;       &lt;chr&gt; &lt;chr&gt;   &lt;date&gt;    
+##  1   217 Linus       Pauling  1962 Peace    California… Pasa… USA     1901-02-28
+##  2   462 Henry       Dunant   1901 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1828-05-08
+##  3   463 Frédéric    Passy    1901 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1822-05-20
+##  4   464 Élie        Ducomm…  1902 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1833-02-19
+##  5   465 Albert      Gobat    1902 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1843-05-21
+##  6   466 Randal      Cremer   1903 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1828-03-18
+##  7   467 Institute … &lt;NA&gt;     1904 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    NA        
+##  8   468 Bertha      von Su…  1905 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1843-06-09
+##  9   470 Theodore    Roosev…  1906 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1858-10-27
+## 10   471 Ernesto Te… Moneta   1907 Peace    &lt;NA&gt;        &lt;NA&gt;  &lt;NA&gt;    1833-09-20
+## # … with 237 more rows, and 17 more variables: died_date &lt;date&gt;, gender &lt;chr&gt;,
+## #   born_city &lt;chr&gt;, born_country &lt;chr&gt;, born_country_code &lt;chr&gt;,
+## #   died_city &lt;chr&gt;, died_country &lt;chr&gt;, died_country_code &lt;chr&gt;,
+## #   overall_motivation &lt;lgl&gt;, share &lt;dbl&gt;, motivation &lt;chr&gt;,
+## #   born_country_original &lt;chr&gt;, born_city_original &lt;chr&gt;,
+## #   died_country_original &lt;chr&gt;, died_city_original &lt;chr&gt;, city_original &lt;chr&gt;,
+## #   country_original &lt;chr&gt;</code></pre>
+<pre class="r"><code>badnames &lt;- &quot;https://raw.githubusercontent.com/dearbharat/tidyverse/main/edibnb-badnames.csv&quot;
+edibnb_badnames &lt;- read_csv(badnames, show_col_types = FALSE)
+names(edibnb_badnames)</code></pre>
+<pre><code>##  [1] &quot;ID&quot;                   &quot;Price&quot;                &quot;neighbourhood&quot;       
+##  [4] &quot;accommodates&quot;         &quot;Number of bathrooms&quot;  &quot;Number of Bedrooms&quot;  
+##  [7] &quot;n beds&quot;               &quot;Review Scores Rating&quot; &quot;Number of reviews&quot;   
+## [10] &quot;listing_url&quot;</code></pre>
+<pre class="r"><code>edibnb_badnames</code></pre>
+<pre><code>## # A tibble: 13,245 × 10
+##       ID Price neighbourhood accommodates `Number of bathrooms` `Number of Bed…`
+##    &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;                &lt;dbl&gt;                 &lt;dbl&gt;            &lt;dbl&gt;
+##  1 15420    80 New Town                 2                   1                  1
+##  2 24288   115 Southside                4                   1.5                2
+##  3 38628    46 &lt;NA&gt;                     2                   1                  0
+##  4 44552    32 Leith                    2                   1                  1
+##  5 47616   100 Southside                2                   1                  1
+##  6 48645    71 Old Town                 3                   1                  1
+##  7 51505   175 New Town                 5                   1                  2
+##  8 54188   150 West End                 5                   1                  3
+##  9 55881   139 Leith                    6                   1                  4
+## 10 58682   190 West End                10                   2                  4
+## # … with 13,235 more rows, and 4 more variables: `n beds` &lt;dbl&gt;,
+## #   `Review Scores Rating` &lt;dbl&gt;, `Number of reviews` &lt;dbl&gt;, listing_url &lt;chr&gt;</code></pre>
+<pre class="r"><code>write_csv(edibnb_badnames, file =&quot;edibnb-badnames.csv&quot;)
+
+
+edibnb_col_names &lt;- read_csv(&quot;edibnb-badnames.csv&quot;,show_col_types = FALSE,
+                             col_names = c(&quot;id&quot;, &quot;price&quot;, 
+                                           &quot;neighbourhood&quot;, &quot;accommodates&quot;,
+                                           &quot;bathroom&quot;, &quot;bedroom&quot;, 
+                                           &quot;bed&quot;, &quot;review_scores_rating&quot;, 
+                                           &quot;n_reviews&quot;, &quot;url&quot;))
+names(edibnb_col_names)</code></pre>
+<pre><code>##  [1] &quot;id&quot;                   &quot;price&quot;                &quot;neighbourhood&quot;       
+##  [4] &quot;accommodates&quot;         &quot;bathroom&quot;             &quot;bedroom&quot;             
+##  [7] &quot;bed&quot;                  &quot;review_scores_rating&quot; &quot;n_reviews&quot;           
+## [10] &quot;url&quot;</code></pre>
+<pre class="r"><code>dfna &lt;- &quot;https://raw.githubusercontent.com/dearbharat/tidyverse/main/df-na.csv&quot;
+read_csv(dfna)</code></pre>
+<pre><code>## Rows: 9 Columns: 3
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr (3): x, y, z
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<pre><code>## # A tibble: 9 × 3
+##   x     y              z     
+##   &lt;chr&gt; &lt;chr&gt;          &lt;chr&gt; 
+## 1 1     a              hi    
+## 2 &lt;NA&gt;  b              hello 
+## 3 3     Not applicable 9999  
+## 4 4     d              ola   
+## 5 5     e              hola  
+## 6 .     f              whatup
+## 7 7     g              wassup
+## 8 8     h              sup   
+## 9 9     i              &lt;NA&gt;</code></pre>
+<pre class="r"><code>read_csv(dfna, 
+         na = c(&quot;&quot;, &quot;NA&quot;, &quot;.&quot;, &quot;9999&quot;, &quot;Not applicable&quot;))</code></pre>
+<pre><code>## Rows: 9 Columns: 3
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr (2): y, z
+## dbl (1): x
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<pre><code>## # A tibble: 9 × 3
+##       x y     z     
+##   &lt;dbl&gt; &lt;chr&gt; &lt;chr&gt; 
+## 1     1 a     hi    
+## 2    NA b     hello 
+## 3     3 &lt;NA&gt;  &lt;NA&gt;  
+## 4     4 d     ola   
+## 5     5 e     hola  
+## 6    NA f     whatup
+## 7     7 g     wassup
+## 8     8 h     sup   
+## 9     9 i     &lt;NA&gt;</code></pre>
+<pre class="r"><code>library(tidyverse)
+
+favfood &lt;- &quot;https://raw.githubusercontent.com/dearbharat/tidyverse/main/favourite-food.csv&quot;
+
+fav_food &lt;- read_csv(favfood,na = c(&quot;N/A&quot;, &quot;99999&quot;))%&gt;%
+janitor::clean_names()</code></pre>
+<pre><code>## Rows: 5 Columns: 6
+## ── Column specification ────────────────────────────────────────────────────────
+## Delimiter: &quot;,&quot;
+## chr (5): Full Name, favourite.food, mealPlan, AGE, SES
+## dbl (1): Student ID
+## 
+## ℹ Use `spec()` to retrieve the full column specification for this data.
+## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+<pre class="r"><code>fav_food</code></pre>
+<pre><code>## # A tibble: 5 × 6
+##   student_id full_name        favourite_food     meal_plan           age   ses  
+##        &lt;dbl&gt; &lt;chr&gt;            &lt;chr&gt;              &lt;chr&gt;               &lt;chr&gt; &lt;chr&gt;
+## 1          1 Sunil Huffmann   Strawberry yoghurt Lunch only          4     High 
+## 2          2 Barclay Lynn     French fries       Lunch only          5     Midd…
+## 3          3 Jayendra Lyne    &lt;NA&gt;               Breakfast and lunch 7     Low  
+## 4          4 Leon Rossini     Anchovies          Lunch only          &lt;NA&gt;  Midd…
+## 5          5 Chidiegwu Dunkel Pizza              Breakfast and lunch five  High</code></pre>
+<pre class="r"><code>fav_food &lt;- fav_food %&gt;%
+  mutate(
+    age = if_else(age == &quot;five&quot;, &quot;5&quot;, age),
+    age = as.numeric(age)
+    )
+glimpse(fav_food)</code></pre>
+<pre><code>## Rows: 5
+## Columns: 6
+## $ student_id     &lt;dbl&gt; 1, 2, 3, 4, 5
+## $ full_name      &lt;chr&gt; &quot;Sunil Huffmann&quot;, &quot;Barclay Lynn&quot;, &quot;Jayendra Lyne&quot;, &quot;Leo…
+## $ favourite_food &lt;chr&gt; &quot;Strawberry yoghurt&quot;, &quot;French fries&quot;, NA, &quot;Anchovies&quot;, …
+## $ meal_plan      &lt;chr&gt; &quot;Lunch only&quot;, &quot;Lunch only&quot;, &quot;Breakfast and lunch&quot;, &quot;Lun…
+## $ age            &lt;dbl&gt; 4, 5, 7, NA, 5
+## $ ses            &lt;chr&gt; &quot;High&quot;, &quot;Middle&quot;, &quot;Low&quot;, &quot;Middle&quot;, &quot;High&quot;</code></pre>
+<pre class="r"><code>fav_food %&gt;%
+  count(ses)</code></pre>
+<pre><code>## # A tibble: 3 × 2
+##   ses        n
+##   &lt;chr&gt;  &lt;int&gt;
+## 1 High       2
+## 2 Low        1
+## 3 Middle     2</code></pre>
+<pre class="r"><code>fav_food &lt;- fav_food %&gt;%
+  mutate(ses = fct_relevel(ses, &quot;Low&quot;, &quot;Middle&quot;, &quot;High&quot;))
+fav_food %&gt;%
+  count(ses)</code></pre>
+<pre><code>## # A tibble: 3 × 2
+##   ses        n
+##   &lt;fct&gt;  &lt;int&gt;
+## 1 Low        1
+## 2 Middle     2
+## 3 High       2</code></pre>

@@ -1,5 +1,5 @@
 ---
-title: Feb23
+title: Excercise 3
 author: R package build
 date: '2022-02-23'
 slug: feb23
@@ -32,11 +32,119 @@ read_csv("df.csv")
 ```
 
 ```{r}
+nobel_stem <- nobel %>%
+  filter(category=='Physics' | category=='Medicine' | category=='Chemistry' | category=='Economics')
 
+
+# non-steam laureates
+nobel_nonstem <- nobel %>%
+  filter(category!='Physics' & category!='Medicine' & category!='Chemistry' & category!='Economics')
 
 
 
 ```
+
+```{r}
+
+write_csv(nobel_stem, file = "nobel_stem.csv")
+
+write_csv(nobel_nonstem, file = "nobel_nonstem.csv")
+
+read_csv("nobel_stem.csv")
+
+read_csv("nobel_nonstem.csv")
+
+
+```
+
+
+```{r}
+
+badnames <- "https://raw.githubusercontent.com/dearbharat/tidyverse/main/edibnb-badnames.csv"
+edibnb_badnames <- read_csv(badnames, show_col_types = FALSE)
+names(edibnb_badnames)
+
+edibnb_badnames
+
+
+```
+
+
+```{r}
+
+write_csv(edibnb_badnames, file ="edibnb-badnames.csv")
+
+
+edibnb_col_names <- read_csv("edibnb-badnames.csv",show_col_types = FALSE,
+                             col_names = c("id", "price", 
+                                           "neighbourhood", "accommodates",
+                                           "bathroom", "bedroom", 
+                                           "bed", "review_scores_rating", 
+                                           "n_reviews", "url"))
+names(edibnb_col_names)
+
+
+```
+
+
+```{r}
+dfna <- "https://raw.githubusercontent.com/dearbharat/tidyverse/main/df-na.csv"
+read_csv(dfna)
+
+read_csv(dfna, 
+         na = c("", "NA", ".", "9999", "Not applicable"))
+
+
+
+```
+
+
+```{r}
+
+library(tidyverse)
+
+favfood <- "https://raw.githubusercontent.com/dearbharat/tidyverse/main/favourite-food.csv"
+
+fav_food <- read_csv(favfood,na = c("N/A", "99999"))%>%
+janitor::clean_names()
+fav_food
+
+
+```
+
+
+```{r}
+
+fav_food <- fav_food %>%
+  mutate(
+    age = if_else(age == "five", "5", age),
+    age = as.numeric(age)
+    )
+glimpse(fav_food)
+
+
+```
+
+
+```{r}
+
+
+fav_food %>%
+  count(ses)
+
+```
+
+
+```{r}
+
+
+fav_food <- fav_food %>%
+  mutate(ses = fct_relevel(ses, "Low", "Middle", "High"))
+fav_food %>%
+  count(ses)
+
+```
+
 
 ```{r}
 
