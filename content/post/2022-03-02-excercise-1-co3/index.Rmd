@@ -1,0 +1,98 @@
+---
+title: Excercise 1 CO3
+author: R package build
+date: '2022-03-02'
+slug: excercise-1-co3
+categories: []
+tags: []
+---
+
+Preliminaries
+## Importing Libraries and Data
+```{r}
+library(tidyverse)
+library(moderndive)
+library(skimr)
+library(gapminder)
+```
+
+## Importing Data
+```{r}
+evals_ch5 <- evals %>%
+  select(ID, score, bty_avg, age)
+```
+
+## Explore the Data
+```{r}
+glimpse(evals_ch5)
+```
+
+## Sample the Data
+```{r}
+evals_ch5 %>%
+  sample_n(size = 5)
+```
+
+## Mean and Median of BTY and Score
+```{r}
+evals_ch5 %>%
+  summarize(mean_bty_avg = mean(bty_avg), mean_score = mean(score),
+            median_bty_avg = median(bty_avg), median_score = median(score))
+```
+
+## Five Number Summary
+```{r}
+evals_ch5 %>% select(score, bty_avg) %>% skim()
+```
+
+## Scatter Plot of Score Vs Bty_score
+```{r}
+plot(evals_ch5$score, evals_ch5$bty_avg)
+```
+
+## Correlation
+```{r}
+evals_ch5 %>% 
+  get_correlation(formula = score ~ bty_avg)
+```
+
+## Scatter Plot: Score Vs BTY_Score
+```{r}
+ggplot(evals_ch5, aes(x = bty_avg, y = score)) +
+  geom_point() +
+  labs(x = "Beauty Score", 
+       y = "Teaching Score",
+       title = "Scatterplot of relationship of teaching and beauty scores")
+```
+
+## Scatterplot with Jitter
+```{r}
+ggplot(evals_ch5, aes(x = bty_avg, y = score)) +
+  geom_jitter() +
+  labs(x = "Beauty Score", y = "Teaching Score",
+       title = "Scatterplot of relationship of teaching and beauty scores")
+```
+
+## 
+```{r}
+ggplot(evals_ch5, aes(x = bty_avg, y = score)) +
+  geom_point() +
+  labs(x = "Beauty Score", y = "Teaching Score",
+       title = "Relationship between teaching and beauty scores") +  
+  geom_smooth(method = "lm", se = FALSE)
+```
+
+## Linear Regression
+```{r}
+# Fit regression model:
+score_model <- lm(score ~ bty_avg, data = evals_ch5)
+# Get regression table:
+get_regression_table(score_model)
+```
+
+## Fitting the Regression Model
+```{r}
+# Fit regression model:
+regression_points <- get_regression_points(score_model)
+regression_points
+```

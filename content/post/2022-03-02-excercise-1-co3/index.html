@@ -1,0 +1,224 @@
+---
+title: Excercise 1 CO3
+author: R package build
+date: '2022-03-02'
+slug: excercise-1-co3
+categories: []
+tags: []
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Preliminaries
+## Importing Libraries and Data</p>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
+## ✓ tibble  3.1.6     ✓ dplyr   1.0.8
+## ✓ tidyr   1.2.0     ✓ stringr 1.4.0
+## ✓ readr   2.1.2     ✓ forcats 0.5.1</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>library(moderndive)
+library(skimr)
+library(gapminder)</code></pre>
+<div id="importing-data" class="section level2">
+<h2>Importing Data</h2>
+<pre class="r"><code>evals_ch5 &lt;- evals %&gt;%
+  select(ID, score, bty_avg, age)</code></pre>
+</div>
+<div id="explore-the-data" class="section level2">
+<h2>Explore the Data</h2>
+<pre class="r"><code>glimpse(evals_ch5)</code></pre>
+<pre><code>## Rows: 463
+## Columns: 4
+## $ ID      &lt;int&gt; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,…
+## $ score   &lt;dbl&gt; 4.7, 4.1, 3.9, 4.8, 4.6, 4.3, 2.8, 4.1, 3.4, 4.5, 3.8, 4.5, 4.…
+## $ bty_avg &lt;dbl&gt; 5.000, 5.000, 5.000, 5.000, 3.000, 3.000, 3.000, 3.333, 3.333,…
+## $ age     &lt;int&gt; 36, 36, 36, 36, 59, 59, 59, 51, 51, 40, 40, 40, 40, 40, 40, 40…</code></pre>
+</div>
+<div id="sample-the-data" class="section level2">
+<h2>Sample the Data</h2>
+<pre class="r"><code>evals_ch5 %&gt;%
+  sample_n(size = 5)</code></pre>
+<pre><code>## # A tibble: 5 × 4
+##      ID score bty_avg   age
+##   &lt;int&gt; &lt;dbl&gt;   &lt;dbl&gt; &lt;int&gt;
+## 1   354   4.9    3.33    50
+## 2   421   5      7.83    58
+## 3   252   4.4    3.17    52
+## 4   237   4.6    4.83    61
+## 5   274   4.2    5.67    57</code></pre>
+</div>
+<div id="mean-and-median-of-bty-and-score" class="section level2">
+<h2>Mean and Median of BTY and Score</h2>
+<pre class="r"><code>evals_ch5 %&gt;%
+  summarize(mean_bty_avg = mean(bty_avg), mean_score = mean(score),
+            median_bty_avg = median(bty_avg), median_score = median(score))</code></pre>
+<pre><code>## # A tibble: 1 × 4
+##   mean_bty_avg mean_score median_bty_avg median_score
+##          &lt;dbl&gt;      &lt;dbl&gt;          &lt;dbl&gt;        &lt;dbl&gt;
+## 1         4.42       4.17           4.33          4.3</code></pre>
+</div>
+<div id="five-number-summary" class="section level2">
+<h2>Five Number Summary</h2>
+<pre class="r"><code>evals_ch5 %&gt;% select(score, bty_avg) %&gt;% skim()</code></pre>
+<table>
+<caption><span id="tab:unnamed-chunk-6">Table 1: </span>Data summary</caption>
+<tbody>
+<tr class="odd">
+<td align="left">Name</td>
+<td align="left">Piped data</td>
+</tr>
+<tr class="even">
+<td align="left">Number of rows</td>
+<td align="left">463</td>
+</tr>
+<tr class="odd">
+<td align="left">Number of columns</td>
+<td align="left">2</td>
+</tr>
+<tr class="even">
+<td align="left">_______________________</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Column type frequency:</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">numeric</td>
+<td align="left">2</td>
+</tr>
+<tr class="odd">
+<td align="left">________________________</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Group variables</td>
+<td align="left">None</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Variable type: numeric</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">skim_variable</th>
+<th align="right">n_missing</th>
+<th align="right">complete_rate</th>
+<th align="right">mean</th>
+<th align="right">sd</th>
+<th align="right">p0</th>
+<th align="right">p25</th>
+<th align="right">p50</th>
+<th align="right">p75</th>
+<th align="right">p100</th>
+<th align="left">hist</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">score</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">4.17</td>
+<td align="right">0.54</td>
+<td align="right">2.30</td>
+<td align="right">3.80</td>
+<td align="right">4.30</td>
+<td align="right">4.6</td>
+<td align="right">5.00</td>
+<td align="left">▁▁▅▇▇</td>
+</tr>
+<tr class="even">
+<td align="left">bty_avg</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">4.42</td>
+<td align="right">1.53</td>
+<td align="right">1.67</td>
+<td align="right">3.17</td>
+<td align="right">4.33</td>
+<td align="right">5.5</td>
+<td align="right">8.17</td>
+<td align="left">▃▇▇▃▂</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="scatter-plot-of-score-vs-bty_score" class="section level2">
+<h2>Scatter Plot of Score Vs Bty_score</h2>
+<pre class="r"><code>plot(evals_ch5$score, evals_ch5$bty_avg)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-7-1.png" width="672" /></p>
+</div>
+<div id="correlation" class="section level2">
+<h2>Correlation</h2>
+<pre class="r"><code>evals_ch5 %&gt;% 
+  get_correlation(formula = score ~ bty_avg)</code></pre>
+<pre><code>## # A tibble: 1 × 1
+##     cor
+##   &lt;dbl&gt;
+## 1 0.187</code></pre>
+</div>
+<div id="scatter-plot-score-vs-bty_score" class="section level2">
+<h2>Scatter Plot: Score Vs BTY_Score</h2>
+<pre class="r"><code>ggplot(evals_ch5, aes(x = bty_avg, y = score)) +
+  geom_point() +
+  labs(x = &quot;Beauty Score&quot;, 
+       y = &quot;Teaching Score&quot;,
+       title = &quot;Scatterplot of relationship of teaching and beauty scores&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-9-1.png" width="672" /></p>
+</div>
+<div id="scatterplot-with-jitter" class="section level2">
+<h2>Scatterplot with Jitter</h2>
+<pre class="r"><code>ggplot(evals_ch5, aes(x = bty_avg, y = score)) +
+  geom_jitter() +
+  labs(x = &quot;Beauty Score&quot;, y = &quot;Teaching Score&quot;,
+       title = &quot;Scatterplot of relationship of teaching and beauty scores&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-10-1.png" width="672" /></p>
+</div>
+<div id="section" class="section level2">
+<h2></h2>
+<pre class="r"><code>ggplot(evals_ch5, aes(x = bty_avg, y = score)) +
+  geom_point() +
+  labs(x = &quot;Beauty Score&quot;, y = &quot;Teaching Score&quot;,
+       title = &quot;Relationship between teaching and beauty scores&quot;) +  
+  geom_smooth(method = &quot;lm&quot;, se = FALSE)</code></pre>
+<pre><code>## `geom_smooth()` using formula &#39;y ~ x&#39;</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-11-1.png" width="672" /></p>
+</div>
+<div id="linear-regression" class="section level2">
+<h2>Linear Regression</h2>
+<pre class="r"><code># Fit regression model:
+score_model &lt;- lm(score ~ bty_avg, data = evals_ch5)
+# Get regression table:
+get_regression_table(score_model)</code></pre>
+<pre><code>## # A tibble: 2 × 7
+##   term      estimate std_error statistic p_value lower_ci upper_ci
+##   &lt;chr&gt;        &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;   &lt;dbl&gt;    &lt;dbl&gt;    &lt;dbl&gt;
+## 1 intercept    3.88      0.076     51.0        0    3.73     4.03 
+## 2 bty_avg      0.067     0.016      4.09       0    0.035    0.099</code></pre>
+</div>
+<div id="fitting-the-regression-model" class="section level2">
+<h2>Fitting the Regression Model</h2>
+<pre class="r"><code># Fit regression model:
+regression_points &lt;- get_regression_points(score_model)
+regression_points</code></pre>
+<pre><code>## # A tibble: 463 × 5
+##       ID score bty_avg score_hat residual
+##    &lt;int&gt; &lt;dbl&gt;   &lt;dbl&gt;     &lt;dbl&gt;    &lt;dbl&gt;
+##  1     1   4.7    5         4.21    0.486
+##  2     2   4.1    5         4.21   -0.114
+##  3     3   3.9    5         4.21   -0.314
+##  4     4   4.8    5         4.21    0.586
+##  5     5   4.6    3         4.08    0.52 
+##  6     6   4.3    3         4.08    0.22 
+##  7     7   2.8    3         4.08   -1.28 
+##  8     8   4.1    3.33      4.10   -0.002
+##  9     9   3.4    3.33      4.10   -0.702
+## 10    10   4.5    3.17      4.09    0.409
+## # … with 453 more rows</code></pre>
+</div>
