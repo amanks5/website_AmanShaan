@@ -1,0 +1,408 @@
+Florida Citrus Crop Pests and Control Methods
+Overview
+Citrus crops in Florida, primarily oranges and grapefruits, face several pest challenges across different growth stages. The primary areas impacted are central and southern Florida, where specific pests affect citrus health. This section covers the main pests, the affected parts of the plant, and recommended control methods.
+
+Mites
+Types include rust mites and spider mites. Mites commonly affect citrus leaves and fruits, particularly in warmer, humid areas with dense tree canopies in central and southern Florida. They primarily cause scarring and discoloration on fruit surfaces, which reduces market quality. Control methods include the use of miticides, applied based on seasonal population peaks to prevent resistance and maintain effective control.
+
+Asian Citrus Psyllid (Diaphorina citri)
+The Asian citrus psyllid transmits Huanglongbing (HLB), also known as citrus greening disease, which is fatal to citrus trees. This pest severely impacts fruit quality and overall tree health. Psyllid populations are particularly prevalent in southern Florida, where conditions support year-round reproduction. Control measures include chemical options such as imidacloprid, a systemic insecticide, and biological controls like the parasitoid wasp Tamarixia radiata, which suppresses psyllid populations. Integrated pest management (IPM) practices are essential to reduce chemical reliance and mitigate resistance.
+
+Scale Insects
+Types include armored scales and soft scales, which attack leaves and branches, weakening citrus trees by extracting sap and potentially transmitting other pathogens. Infestations are common in central and southern Florida due to the favorable climate and extensive citrus orchards. Control methods include horticultural oils and insect growth regulators (IGRs) to target young scale stages, as well as biological controls that encourage natural predators such as lady beetles and parasitoid wasps.
+
+Weevils
+Species like the citrus root weevil and Diaprepes root weevil are prevalent in citrus-growing regions. These pests primarily damage roots, causing nutrient uptake issues that result in reduced tree vigor and eventual decline. Weevil larvae feed on roots underground, which makes control challenging. Management strategies include biological controls like entomopathogenic nematodes, effective against weevil larvae, and soil-applied insecticides for adult weevils.
+
+Leafminers
+Leafminers, which are larvae of small moths, infest young citrus leaves by tunneling within the leaf tissue. This activity leads to curled and distorted leaves that hinder photosynthesis and reduce tree growth, especially in younger trees. Leafminer populations peak during warm months in central and southern Florida. Control measures focus on targeted insecticide applications during leaf flushes, using products like abamectin or spinosad to minimize the impact on beneficial insect populations.
+
+Fire Ants
+Fire ants are considered secondary pests in Florida citrus orchards. Their nests near citrus roots can cause disturbances and exacerbate infestations of other pest species by protecting honeydew-producing pests like scales and aphids. Management methods include chemical treatments through bait stations and mound treatments to help control fire ant populations.
+
+Nematodes
+Nematodes, including root-knot and citrus nematodes, affect citrus root systems, reducing the plant's ability to absorb water and nutrients. These pests are more prevalent in sandy soils commonly found throughout central Florida's citrus orchards. Control strategies focus on soil fumigation and nematicides, while crop rotation and cover cropping in non-productive seasons are also recommended to help suppress nematode populations.
+
+Integrated Pest Management (IPM)
+Integrated Pest Management (IPM) practices tailored to Florida's unique climate and pest pressures are emphasized in citrus pest management. Key aspects of IPM include regular monitoring of pest populations, cultural controls to reduce pest habitats, and a combination of chemical and biological methods to minimize pesticide use. Seasonal monitoring and threshold-based pesticide applications are essential to reduce unnecessary pesticide use, promote sustainable practices, and support environmental conservation.
+
+
+
+Here's the "Kentucky Winter Wheat Crop Pests and Production Practices" section formatted for a text file:
+
+Kentucky Winter Wheat Crop Pests and Production Practices
+Overview
+Kentucky’s winter wheat is primarily grown in a rotation with corn and soybeans, offering significant benefits for managing insects, weeds, and diseases. The most common rotation sequence is corn-wheat-double-crop soybean, followed by winter fallow. Mechanized planting and harvesting have minimized hand labor, contributing to the stability of wheat production in the region.
+
+Integrated Pest Management (IPM)
+IPM has been a staple in Kentucky’s wheat farming since the 1970s, with a focus on scouting, pest identification, and establishing economic thresholds to optimize pesticide application. Major pests include Hessian flies, cereal aphids, cereal leaf beetles, and armyworms, alongside diseases like powdery mildew, leaf rust, and stripe rust. Regular scouting is recommended to monitor pest populations and disease occurrences.
+
+Insect and Mite Pests
+Hessian Fly (Maylota destructor): Controlled primarily by delaying planting until after the "fly-free date" of October 10-15. Although common, this pest seldom reaches economically damaging levels in Kentucky.
+
+Cereal Aphids (Bird Cherry-Oat aphid, English grain aphid, Corn leaf aphid): These aphids spread Barley Yellow Dwarf Virus (BYDV), which can lead to yield losses. The Bird cherry-oat aphid is the primary vector, and control thresholds are set based on aphid counts per row foot. Chemical controls include lambda-cyhalothrin (Warrior), cyfluthrin (Baythroid), and zeta-cypermethrin (Mustang Max).
+
+Cereal Leaf Beetle (Oulema melanopus): An invasive species affecting southern Kentucky, though major outbreaks remain rare. Control involves scouting and chemical treatments such as cyfluthrin (Baythroid) and lambda-cyhalothrin (Warrior).
+
+Armyworm (Pseudaletia unipuncta): Typically kept below damaging levels by natural predators, though pheromone traps are used to monitor their populations.
+
+Disease Management
+Powdery Mildew (Erysiphe graminis): Prefers cool, damp conditions in early to mid-season. Management includes cultural practices such as selecting resistant varieties and adjusting nitrogen levels, with chemical options like pyraclostrobin (Headline) and propiconazole (Tilt).
+
+Leaf Rust (Puccinia graminis f.sp. tritici): A late-season disease whose spores often arrive from southern states, causing severe outbreaks in susceptible wheat varieties. Control focuses on using resistant varieties and managing population and residue.
+
+Stripe Rust (Puccinia striiformis f.sp.tritice): Appears as yellow stripes along leaf veins in cool, moist conditions. Resistant varieties and early maturing wheat are primary control methods.
+
+Pesticide Application and Control Strategies
+Fungicide application in Kentucky wheat farming is based on disease thresholds and environmental conditions. Common fungicides include azoxystrobin (Quadris), propiconazole (Tilt), and tebuconazole (Folicur), with rotations to prevent resistance. Stored grain is protected with clean, dry conditions and sanitation, using products like chlorpyrifos-methyl (Storcide II) and aluminum phosphide fumigants in grain bins to control pests such as the Indian meal moth.
+
+Additional Wildlife Challenges
+Kentucky’s winter wheat fields are frequently impacted by migratory waterfowl and local wildlife that feed on and trample crops. Storage practices are adapted for high-moisture conditions following the June harvest, with insect control for stored grain as necessary.
+
+
+Tennessee Fresh-Market Tomato Production, Pests, and Control Measures
+Overview
+Tennessee ranks sixth in the U.S. for fresh-market tomato production, with approximately 3,800 acres planted in 2013. Due to heavy spring rains, harvested acreage was slightly below expectations. Tomato production in Tennessee spans three primary regions: western Tennessee (Lauderdale County), eastern Tennessee (Cocke, Grainger, Washington, Unicoi, Greene, and Hamblen Counties), and east-central Tennessee in the Walden’s Ridge area (Bledsoe and Rhea Counties). Smaller production areas are also spread across the state. In 2013, around 2.2 million square feet of greenhouse space contributed approximately 6.39 million pounds of tomatoes to the market.
+
+Varieties and Planting
+Tennessee grows a variety of tomato types, including slicing varieties (BHN 602, BHN 640, Carolina Gold, Celebrity, Crista, Fletcher, Floralina, Florida 47R, Florida 91, Mountain Crest, Mountain Glory, Mountain Fresh Plus, Mountain Magic, Mountain Spring, Phoenix, Primo Red, and Red Defender), cherry tomatoes (Cherry Grande, Mountain Belle, Sun Gold), and grape tomatoes (Cupid, Golden Sunshine, Jolly Elf, and Smarty). Planting schedules vary by region: West Tennessee planting occurs from April 20 to June 20, while East Tennessee planting occurs from early May through late June.
+
+Production Practices
+Tomatoes are cultivated in various soil types, ranging from rich silty loams in the west to silty river bottoms in the east. Standard practices include using raised beds, black plastic mulch, and drip irrigation, with rows spaced 4-6 feet apart and plants spaced 18 inches within rows. Greenhouse transplants are common, with around 75% of transplants set using water wheel transplanters. For field management, the Florida string-weave method is used for staking, pruning, and tying tomatoes. Harvesting is primarily done by hand, often with the assistance of migrant workers who are equipped with personal protective equipment, in line with the Worker Protection Standards.
+
+Pests and Disease Management
+Primary Pests: Tennessee’s tomato industry faces several pest threats, with the primary pests being tomato fruitworms (Helicoverpa zea), stink bugs (Euschistus servus and Acrosternum hilare), thrips (Franklinellia fusca and F. occidentalis), aphids (Macrosiphum euphoribae and Myzus persicae), Colorado potato beetles, and flea beetles. Fruitworms are the most common and migrate annually into eastern Tennessee. Although biological controls like Trichogramma wasps are present, they are not widely used. Common chemical controls include Bacillus thuringiensis products and synthetic insecticides such as lambda-cyhalothrin (Warrior).
+
+Additional Pest Management: Cultural practices, such as late-season planting and weed control, help reduce pest populations. Stink bugs, known for hiding in field debris, are particularly difficult to control. Chemical treatments for stink bugs include azinphos-methyl (Guthion), methamidophos (Monitor), and lambda-cyhalothrin (Warrior), often requiring multiple applications each season.
+
+Disease Management: Fungal diseases like powdery mildew (Erysiphe graminis) and leaf rust pose significant yield threats. Management includes using resistant varieties, adjusting nitrogen levels, and rotating fungicides like propiconazole (Tilt) and azoxystrobin (Quadris). Aphid infestations, which can lead to early blight, are controlled by limiting broad-spectrum insecticides to preserve natural predator populations.
+
+Herbicide and Pesticide Guidelines: Tennessee’s tomato production includes specific guidelines on herbicide and pesticide applications. Herbicides target weeds such as chickweed and lambsquarters, while soil-borne pathogens are managed with methyl bromide fumigation to control nematodes and root diseases. For greenhouse production, insecticides like imidacloprid are applied to manage thrips and aphids before transplants are moved to the field.
+
+
+Louisiana Sugarcane Crop Pests and Production Practices
+Overview
+Louisiana leads the U.S. in sugarcane acreage harvested and ranks second in production, responsible for nearly half of the country’s sugarcane acreage and a significant portion of its sugar output. Sugarcane is primarily cultivated in the south-central region across 22 parishes, including Rapides, Lafourche, and Calcasieu, due to favorable climate, soil conditions, and proximity to mills. Approximately 550,000 acres are dedicated to sugarcane, with 400,000 acres harvested for sugar and 28,000 acres for seed cane.
+
+Sugarcane production involves high costs—around $460 per acre—due to expenses related to land ownership, pest management, seed, and equipment. Planting season extends from late July to October, with a preference for heat-treated seed cane covered with 2 inches of packed soil. Sugarcane is planted in beds with furrow irrigation and generally does not require additional watering due to the region’s high rainfall. Fertilizers such as nitrogen, phosphate, and potassium are applied to support crop health.
+
+Primary Insect Pests
+Sugarcane Borer (Diatraea saccharalis): The sugarcane borer is the most damaging pest in Louisiana, responsible for 90% of insect-related crop losses. Larvae tunnel into stalks, reducing weight and weakening plants, often stunting growth, killing buds, and increasing disease susceptibility. Control measures include monitoring borer populations and applying insecticides when live larvae reach 5% infestation. Cultural practices, such as removing crop residues and planting resistant varieties, contribute to up to 25% pest suppression. Biological control is also significant, with natural predators like red imported fire ants and the parasitic wasp Cotesia flavipes, which has shown parasitism rates of up to 55% in certain areas.
+
+Mexican Rice Borer: Detected in Calcasieu Parish in 2008, this pest poses a growing threat to sugarcane fields in western Louisiana. Although not yet widespread, Mexican rice borers are monitored closely as a precaution to prevent escalation.
+
+Wireworms: These pests damage sugarcane by feeding on plant roots, leading to stunted growth. Wireworms overwinter in fields, and control relies on sampling and economic thresholds due to the limited efficacy of chemical treatments.
+
+Disease Management
+Leaf Scald: Characterized by bleaching and yellowing, with white "pencil lines" along leaf blades. Severe cases may lead to plant death, with drought stress worsening symptoms.
+
+Mosaic Virus: Displays as irregular pale and green patterns on leaves, affecting growth, with young leaves showing the most visible symptoms.
+
+Ratoon Stunting Disease: Stunts plants, especially in drought, often causing internal discoloration of stalks.
+
+Red Rot: Affects seed cane by rotting nodes and internodes, which become discolored. It spreads more quickly in drought or waterlogged conditions.
+
+Rust (Brown Rust): Small chlorotic flecks evolve into reddish-brown pustules that release spores, causing premature leaf die-off in susceptible varieties.
+
+Smut: Recognized by black, whip-like structures at stalk tips. Infected plants develop narrow-diameter shoots, appearing grassy.
+
+White Stripe and Yellow Leaf: Non-infectious striping occurs due to environmental conditions, while yellow leaf virus affects young leaves, leading to mid-vein yellowing.
+
+Resistant sugarcane varieties, along with heat-treated seed cane products like Kleentek and SugarTek, are essential for managing diseases such as smut and ratoon stunting. Fungicides are available for controlling rust.
+
+Weed Control
+Weed pests in sugarcane include both annual and perennial grasses and broadleaf weeds. Because sugarcane itself is a grass, removing grassy weeds presents a particular challenge. Weed control incorporates mechanical methods such as "off-barring" and "false shaving," involving soil removal and low-set mowing of weed and crop debris from row tops. Herbicides are applied in bands to reduce weed encroachment, providing residual control lasting approximately 60 days post-rainfall.
+
+Chemical Control
+Preemergence Herbicides: Commonly used herbicides include atrazine, clomazone (Command), and diuron, applied to manage both summer and winter weeds for cleaner beds by spring.
+
+Postemergence Herbicides: Applications take place during fall, winter, and early spring to manage established weeds. Programs may combine banding and broadcast applications, and specific herbicides like glyphosate are used for stubble control in no-till fallow programs. Fallow management often combines herbicide use with tillage to maximize weed suppression and soil conservation.
+
+Storage and Harvest
+Sugarcane fields follow a four-year production cycle, with three to four crops harvested before the field is fallowed. The combine harvester has become standard, although crop residues require herbicide modifications for efficient weed control and regrowth management.
+
+This summary provides an overview of production practices, pest management, disease control, and weed management techniques for Louisiana sugarcane farming.
+
+
+
+North Carolina Tobacco Production, Pests, and Control Practices
+Overview
+North Carolina is a leading state in tobacco production, focusing on two main types: flue-cured and burley. The state ranks first in the U.S. for flue-cured tobacco, contributing approximately 77% of national output, while burley tobacco is primarily grown in the western mountainous regions. In 2014, the tobacco industry in North Carolina generated over $911 million, with an average per-acre production valued at about $4,715, reaching close to $7,000 in certain cases. The production cost per acre for flue-cured tobacco is around $3,500.
+
+Flue-cured tobacco is generally grown in the Coastal Plain and Northern Piedmont counties, where well-drained sandy loam soils support high-quality growth. Burley tobacco thrives in the mountainous regions, benefiting from a favorable climate and nutrient-retentive soil composition.
+
+Cultivation and Harvesting
+Tobacco is grown on diverse soil types across North Carolina. Flue-cured tobacco is primarily cultivated on raised beds for better drainage, while burley is often grown on flat fields. Around 99% of flue-cured tobacco uses conventional tillage, whereas no-till practices are more common for burley due to the terrain. Tobacco seedlings are typically greenhouse-grown and then transplanted mechanically. Flue-cured tobacco plants are spaced to achieve a target density of 6,000 plants per acre, while burley has a density of 7,200 plants per acre due to its upright leaf structure. Irrigation is used for about 20-25% of the crop, with regular cultivation to remove weeds, improve aeration, and reinforce the raised beds.
+
+Flue-cured tobacco is harvested in stages, beginning with the ripest lower leaves. This involves hand-picking for 28% of the acreage and mechanized harvesting for the remaining 72%. After harvest, leaves are placed in curing barns where temperatures gradually rise over 6-8 days to thoroughly dry the leaves. Burley tobacco, on the other hand, is harvested in a single pass by stalk-cutting and air-cured over one to two months.
+
+Disease Management
+Greenhouse diseases, including Pythium root rot, Rhizoctonia, and Sclerotinia, affect seedling production and cause early yield losses. Preventive sanitation practices are essential, such as cleaning equipment, sanitizing trays, and fumigating with methyl bromide when available. Field-grown tobacco faces diseases like black shank, blue mold, and target spot, leading to annual yield losses of 10-15%. Integrated management strategies include crop rotation, row bedding, and balanced fertilization.
+
+Soil pathogens like nematodes and black root rot are managed with fumigants, such as chloropicrin and 1,3-dichloropropene. Mefenoxam is applied to control black shank and blue mold, while azoxystrobin is used against target spot. Blue mold fungicides are typically applied if pathogens are detected early in the season.
+
+Nematode Control
+Root-knot nematodes are common and reduce tobacco yields by approximately 1.7% each year, weakening plants and making them more susceptible to other diseases. Regular soil tests are recommended to monitor nematode populations, and practices like crop rotation with grains or grasses help reduce pathogen levels.
+
+Weed Management
+Weed control is a challenge given the tobacco growing season's length of five months. Cultural practices like crop rotation, deep tillage, and cover cropping aid in weed suppression, although timely cultivation is often limited by farm size. Pre-transplant herbicides, such as clomazone, sulfentrazone, sethoxydim, and pendimethalin, are commonly applied. Post-transplant applications are restricted to sethoxydim and carfentrazone, targeting persistent weed issues.
+
+Insect Pests and Control
+Primary insect pests in North Carolina tobacco fields include hornworms, budworms, green peach aphids, flea beetles, and wireworms. Wireworms, which damage plant roots, are controlled through soil fumigation when field history indicates potential infestations. Tobacco thrips, which vector the tomato spotted wilt virus, pose additional threats by stunting plant growth or causing plant mortality.
+
+Tobacco Flea Beetle (Epitrix hirtipennis): These beetles cause "shot holes" in leaves, particularly damaging to young plants. Control thresholds are set at four beetles per young plant and 60 per mature plant.
+
+Tobacco Budworm (Heliothis virescens): Budworms consume leaves and stimulate sucker growth, increasing the need for labor-intensive removal.
+
+Green Peach Aphid (Myzus persicae): Heavy infestations reduce yields and cause leaf-staining mold, particularly when aphid excretions attract sooty mold growth.
+
+Control recommendations for each pest are outlined in the North Carolina Agricultural Chemicals Manual. Occasional pests in tobacco fields include hornworms, white fringed beetles, and Japanese beetles.
+
+Topping and Sucker Control
+Tobacco plants undergo topping to remove flower buds, which promotes leaf growth. Suckers, or lateral shoots, are then managed using contact and systemic chemicals. Contact treatments use fatty alcohol solutions applied early in the growing season, often requiring multiple applications. Systemic controls, such as maleic hydrazide (MH), are applied once per season to inhibit cell division and restrict sucker growth.
+
+
+North Carolina Strawberry Crop Production, Pests, and Management Practices
+Overview
+Strawberry production in North Carolina focuses on fresh-market strawberries, primarily using an annual hill plasticulture system on raised beds with black plastic mulch and drip irrigation. Strawberries are produced across approximately 40 counties, with primary hubs in Nash, Johnston, Duplin, and Rowan Counties. Smaller farms are scattered throughout additional counties, including Cleveland, Davidson, and Guilford. Plasticulture systems generally do not exceed a single season for each planting, with plants removed after the spring harvest. Some growers plant cover crops in summer to enhance soil health.
+
+Production Systems and Practices
+The primary production system, plasticulture, involves setting up raised beds on 4-5 foot centers with double rows, amounting to about 17,500 plants per acre. Soil is fumigated in late summer or early fall, with fields planted in October and strawberries harvested the following spring. Plasticulture offers advantages for weed and pest control but requires consistent management. Hand-harvesting is common, with strawberries marketed through direct channels such as U-pick operations, farmers’ markets, and wholesale.
+
+A smaller number of growers use the matted row system, a perennial production approach without plastic mulch or drip irrigation, where plants can be maintained for up to five years.
+
+Pest and Disease Management
+Strawberry pest management integrates cultural, biological, and chemical controls to manage insects, pathogens, and mites. Notable pests include sap beetles, spotted wing drosophila, strawberry bud weevils, tarnished plant bugs, and two-spotted spider mites. Common fungal pathogens include gray mold (Botrytis cinerea), bitter rot, anthracnose, and red stele.
+
+Sap Beetles (Carpophilus lugubris): These beetles damage strawberries by feeding directly on ripe fruit, introducing decay organisms.
+
+Spotted Wing Drosophila (Drosophila suzukii): This invasive pest affects ripening fruit by laying eggs that develop into larvae within berries. Population control includes trapping, regular harvesting, and insecticides when necessary.
+
+Strawberry Bud Weevil (Anthonomus signatus): Also known as the “clipper weevil,” this pest damages flower buds by clipping them, leading to yield loss. Management involves monitoring for early signs and applying insecticides if necessary thresholds are met.
+
+Tarnished Plant Bug (Lygus lineolaris): Feeding on developing strawberries causes misshapen or "cat-faced" fruit. Control measures include reducing alternate host plants near fields and insecticide applications when needed.
+
+Mites: Cyclamen mites and two-spotted spider mites target leaves, causing stippling and possible plant decline. Treatment options include miticides like abamectin and fenpyroximate.
+
+Disease Control
+High humidity in North Carolina elevates disease pressure on strawberries. Common diseases include:
+
+Gray Mold (Botrytis cinerea): Managed through fungicides, canopy management, and harvesting practices.
+
+Anthracnose (Colletotrichum gloeosporioides): Managed with resistant cultivars when available, though susceptibility remains for many varieties.
+
+Red Stele (Phytophthora fragariae): This pathogen thrives in poorly drained soils. Control methods include crop rotation, drainage improvements, and fungicides.
+
+Weed Control and Soil Fumigation
+Weeds are managed with pre-plant herbicides and mechanical methods, with soil fumigation (typically in August) providing additional control over soil-borne pests and pathogens. Commonly used herbicides include clomazone and pendimethalin for aisles, while pre- and post-transplant herbicides address persistent weeds. Fumigants like chloropicrin and 1,3-dichloropropene target a broad pest spectrum, with soil moisture and temperature carefully monitored to ensure fumigant efficacy.
+
+Cultural Controls and Crop Management
+Strawberry growers use crop rotation and cover crops to improve soil health and manage pest pressures. Summer cover crops add organic matter and help prevent erosion, while compost amendments enhance soil microbial activity, particularly in sandy soils with low water retention. Essential sanitation practices for pest and disease control include removing dead plant material and infected tissues.
+
+Organic and Sustainable Production
+Interest in organic production is on the rise, with efforts focused on reducing synthetic inputs and using practices like crop rotation, composting, and biological pest control. While organic strawberry production is limited due to pest pressures and management difficulties, some farms have found success with organic methods for local markets. Sustainable practices are encouraged to support soil health and biodiversity, although certified organic cultivars resistant to major diseases are currently scarce.
+
+
+
+North Carolina Sorghum Grain Crop Production, Pests, and Management Practices
+Overview
+Sorghum is a crucial cereal crop in North Carolina, produced mainly for grain and biomass, serving industries such as ethanol production, animal feed, and consumer food. Sorghum is cultivated both as a full-season crop and within double-crop systems, often following crops like wheat. Primary sorghum-producing counties include Alamance, Chowan, Duplin, and Wake, with soil types such as Rains fine sandy loam, Eunola loamy fine sand, and Suffolk loamy sand supporting its growth.
+
+Growth and Development
+Sorghum progresses through ten growth stages, from emergence (Stage 0) to physiological maturity (Stage 9). With approximately 90,000-120,000 plants per acre in rainfed fields, planting typically occurs from mid-May to late June, depending on soil temperatures. Harvest generally begins in early-to-mid autumn when grain moisture reaches about 15%.
+
+Pest Management
+Sorghum in North Carolina encounters various insect pests, foliar diseases, and weed issues. Integrated Pest Management (IPM) practices—including scouting, chemical applications, and cultural strategies—are essential for maintaining quality and yield.
+
+Insect Pests:
+
+Sugarcane Aphid (Melanaphis sacchari): This high-priority pest feeds on leaves and stalks, producing honeydew that encourages fungal growth and diminishes grain fill. Control measures include insecticides such as flupyradifurone and sulfoxaflor.
+
+Corn Earworm (Helicoverpa zea) and Fall Armyworm (Spodoptera frugiperda): These caterpillars directly target grain heads, decreasing yield and quality. Control options include chlorantraniliprole and spinosad.
+
+Greenbug (Schizaphis graminum) and Yellow Sugarcane Aphid (Sipha flava): These minor aphid pests cause wilting and mold, managed with pyrethrins and pyrethroids.
+
+Foliar Diseases:
+
+Anthracnose (Colletotrichum spp.): Causes tan lesions with darker borders on foliage. Management includes fungicides such as azoxystrobin, fluxapyroxad, and pyraclostrobin.
+
+Leaf Spot (Gloeocercospora sorghi): Leads to target-like lesions on leaves in high-rainfall areas. Control involves propiconazole and azoxystrobin.
+
+Root Rot (Rhizoctonia spp.): Common in cool, damp soils, causing root decay and seedling death. Managed with applications of azoxystrobin.
+
+Weed Management
+Pre- and post-emergence herbicides are employed to control weeds like fall panicum, goosegrass, and Palmer amaranth. Common herbicides include alachlor, dimethenamid, atrazine, and s-metolachlor. Cultural practices, such as proper planting dates and tillage, also aid in suppressing weed growth.
+
+Nematode Management
+Sorghum offers biofumigation potential for controlling plant-parasitic nematodes, particularly root-knot nematodes. Certain sorghum varieties release hydrogen cyanide gas upon tissue breakdown, which has demonstrated nematicidal effects. Although biofumigation practices are still in research stages in North Carolina, they may offer additional pest management options.
+
+Soil Fertility and Crop Management
+Sorghum fields typically receive 100 units of nitrogen per acre, with row spacing at 36 inches. Planting dates significantly impact disease severity and insect pressure, so timely planting is critical for maximizing yield. Fungicides and insecticides are applied based on scouting data and rainfall events.
+
+Sorghum serves as a valuable rotational crop in North Carolina, aiding in nematode and weed management while contributing to biofumigation research. Through continued exploration of variety-specific and regionally adapted sorghum hybrids, producers can enhance pest resistance and soil health benefits.
+
+
+
+North Carolina Blackberry Crop Production, Growth Characteristics, and Pest Management
+The blackberry industry in North Carolina has expanded rapidly due to the development of fresh market varieties, such as thornless blackberries, that suit both small- and large-scale producers. Blackberries in North Carolina are categorized by growth and fruiting habits, supporting different cultivation methods:
+
+Growth Habit: Blackberries can be classified as trailing, erect, or semi-erect, with the latter types more commonly requiring trellis support to avoid fruit loss from wind or fruit contact with the ground.
+Fruiting Habit: Blackberries exhibit either primocane- or floricane-fruiting, where floricanes fruit in their second year, while certain primocane cultivars can bear fruit in their first year.
+Key Production Practices:
+
+Blackberries thrive in North Carolina's soil types, with optimal pH ranging between 6.0 to 6.5.
+Large-scale production is centered in Cleveland, Lincoln, and Henderson counties, with smaller operations throughout Bladen, Pender, and Sampson counties. Production includes both fresh markets (80%) and processed products (20%).
+Crop cycles benefit from both summer and winter pruning, with practices varying between floricane and primocane cultivars to maximize fruiting and manage plant structure.
+Pest and Disease Management: Blackberries face numerous insect pests, pathogens, and mite issues, necessitating Integrated Pest Management (IPM). Frequent pests include:
+
+Aphids: Managed by a range of insecticides, though infestations are typically low.
+Brown Marmorated Stink Bug (BMSB): This invasive pest affects fruit quality, and broad-spectrum insecticides like Sevin and Malathion are common control measures.
+Flower Thrips (Frankliniella spp.): Thrips feed in flowers and can contaminate harvested fruit. Control options include spinosad-based insecticides.
+Green June Beetle (GJB): GJB damages ripe fruit, reducing marketability. Neem oil and broad-spectrum insecticides are used for control.
+Japanese Beetle: Damages both fruit and foliage, with treatments such as carbaryl and fenpropathrin used during high infestations.
+Common Diseases:
+
+Anthracnose: Causes cankers on canes and leaves, leading to yield loss. Cultural practices to improve air circulation and fungicides like azoxystrobin manage this disease.
+Botrytis (Gray Mold): A primary cause of post-harvest fruit rot; managed with fungicides during bloom.
+Orange Rust: Caused by Gynoconia nitens, this systemic rust severely reduces yield, with susceptible plants recommended for early removal to prevent spread.
+Cane and Leaf Rust: Detected on floricanes, it requires early fungicide treatments like lime sulfur to manage.
+Fire Blight: Symptoms include shepherd’s crook formations on leaves and bacterial ooze; streptomycin sulfate is recommended.
+Weed Management: Weeds such as bermudagrass and broadleaf dock pose competition, necessitating herbicide applications and careful management of row spacing for vehicle access. Cultural practices like maintaining sod in row middles help manage erosion and pest pressures.
+
+Challenges and Labor Requirements: Labor remains a critical issue due to the intensive manual pruning and tipping requirements. Cold injury and red drupe reversion also contribute to yield challenges in certain years. Approximately 6-8 trained workers are recommended per acre, focusing on pruning and maintenance tasks.
+
+North Carolina Blackberry Crop Production, Insect Pests, and Management
+North Carolina's blackberry production has grown due to consumer demand and the development of thornless cultivars that facilitate fresh market sales. Blackberries thrive in counties like Cleveland, Lincoln, and Henderson, and are grown using various production systems adapted to the state's climate.
+
+Key Insect Pests and Management: Blackberries face numerous insect challenges, requiring integrated pest management approaches to ensure fruit quality and yield.
+
+Brown Marmorated Stink Bug (BMSB): BMSB adults are about 1.7 cm long, with shield-like bodies, dark brown tops, and lighter undersides. The pest uses piercing-sucking mouthparts to feed on blackberry fluids, damaging the fruit indirectly and contaminating harvests with their distinct odor. Control includes broad-spectrum insecticides (Sevin, Brigade, Malathion) and biological control efforts with Trissolcus japonicus, a parasitic wasp that naturally suppresses BMSB populations.
+
+Japanese Beetle: This ½-inch metallic green beetle feeds on blackberry leaves, often skeletonizing them, which weakens plants and attracts fungal infections. Control involves carbaryl, fenpropathrin, or zeta-cypermethrin, with cultural practices like restricting irrigation to the crop row to reduce habitat suitability.
+
+Spotted Wing Drosophila (SWD): SWD flies lay eggs under the fruit skin, where larvae develop, damaging the fruit and introducing pathogens. SWD are controlled through frequent harvests, cold storage to halt larval development, and insecticides like spinosad and malathion during ripening.
+
+Green June Beetle: These beetles, ¾-1 inch in size, gouge ripe fruit, spoiling it with their excrement. They are managed with broad-spectrum insecticides like Sevin or malathion. Regular harvests and sanitation are essential to reduce attraction.
+
+Strawberry Bud Weevil: Active in early spring, adult weevils clip blackberry buds, leading to bud loss. Chemical control is usually unnecessary as blackberries can compensate for some bud damage. Field positioning away from wooded areas and other spring-fruiting plants may help.
+
+Green Stink Bug: Similar to BMSB, green stink bugs damage blackberries through piercing-sucking feeding, leading to leaf dimpling and scarring. Control measures include broad-spectrum insecticides.
+
+Flower Thrips: Thrips affect blackberry flowers, which may lead to fruit contamination. These small insects (1/20” long) are managed with spinosad-based insecticides when needed.
+
+Raspberry Cane Borer: The female beetles girdle blackberry canes, causing them to wilt. Control practices include removing damaged canes and applying insecticides such as malathion for severe infestations.
+
+Disease and Weed Control: Additional pest challenges include diseases like anthracnose and gray mold, managed with fungicides and improved canopy drying. Weed control is critical and relies on pre-planting suppression and banded herbicide applications. Common weeds include Bermudagrass and Broadleaf dock, managed with selective herbicides.
+
+Labor and Production Issues: Blackberry farming is labor-intensive, with the need for pruning and tipping. Cold injury and pest pressure can affect yields, and growers adopt sustainable practices such as drip irrigation and cover cropping to enhance soil health and pest resistance.
+
+
+
+North Carolina Blackberry Crop Production, Growth Characteristics, and Pest Management
+The blackberry industry in North Carolina has expanded significantly, driven by the development of fresh market varieties, particularly thornless blackberries suitable for both small- and large-scale producers. Blackberries are classified based on growth and fruiting habits, with each type requiring specific cultivation methods.
+
+Growth Habit: Blackberries are categorized as trailing, erect, or semi-erect. Semi-erect types commonly require trellis support to prevent fruit loss due to wind or ground contact.
+
+Fruiting Habit: Blackberries exhibit either primocane- or floricane-fruiting. Floricanes produce fruit in their second year, while certain primocane cultivars bear fruit within their first year.
+
+Key Production Practices: Blackberries thrive in North Carolina’s soils, with an optimal pH range between 6.0 and 6.5. Large-scale production is centered in Cleveland, Lincoln, and Henderson counties, while smaller operations can be found in Bladen, Pender, and Sampson counties. Approximately 80% of blackberries are produced for fresh markets, with the remaining 20% processed. Pruning cycles vary based on whether the cultivar is floricane or primocane to maximize fruiting potential and maintain plant structure.
+
+Pest and Disease Management
+Blackberries in North Carolina face numerous pests, pathogens, and mite issues, requiring Integrated Pest Management (IPM) for effective control.
+
+Pests:
+
+Aphids: Generally low infestations managed with insecticides.
+Brown Marmorated Stink Bug (BMSB): Affects fruit quality; control measures include broad-spectrum insecticides like Sevin and Malathion.
+Flower Thrips: Thrips feed within flowers, potentially contaminating harvested fruit. Control includes spinosad-based insecticides.
+Green June Beetle (GJB): Damages ripe fruit, impacting marketability. Control involves neem oil and broad-spectrum insecticides.
+Japanese Beetle: Damages both fruit and foliage; carbaryl and fenpropathrin are effective during infestations.
+Diseases:
+
+Anthracnose: Causes cankers on canes and leaves, managed with improved air circulation and fungicides like azoxystrobin.
+Botrytis (Gray Mold): Leads to post-harvest fruit rot, managed with fungicides applied during bloom.
+Orange Rust: Caused by Gynoconia nitens, it severely reduces yield. Infected plants are removed to prevent spread.
+Cane and Leaf Rust: Treated with early fungicide applications like lime sulfur.
+Fire Blight: Symptoms include crook-shaped leaves and bacterial ooze, with streptomycin sulfate recommended for control.
+Weed Management: Weeds, such as bermudagrass and broadleaf dock, compete with blackberry crops, requiring herbicide applications and careful row spacing to facilitate vehicle access. Maintaining sod in row middles aids in erosion control and reduces pest pressure.
+
+Labor and Production Challenges: Labor remains a significant challenge due to the intensive manual pruning and tipping requirements. Cold injury and red drupe reversion present yield challenges in certain years, with approximately 6-8 trained workers per acre required for pruning and maintenance tasks.
+
+North Carolina Blackberry Crop Production, Insect Pests, and Management
+The blackberry market in North Carolina has grown significantly due to high consumer demand and the development of thornless varieties for fresh market sales, particularly in counties like Cleveland, Lincoln, and Henderson.
+
+Key Insect Pests and Management
+Blackberry cultivation in North Carolina faces insect challenges that necessitate IPM to ensure high-quality yields.
+
+Brown Marmorated Stink Bug (BMSB): Adults are about 1.7 cm long, with a shield-like body. They use piercing-sucking mouthparts to feed on blackberry fluids, indirectly damaging the fruit. Control includes insecticides such as Sevin, Brigade, and Malathion, as well as biological controls like the parasitic wasp Trissolcus japonicus.
+Japanese Beetle: These metallic green beetles skeletonize leaves, weakening plants. Control methods include carbaryl, fenpropathrin, and zeta-cypermethrin, with irrigation restricted to rows to limit habitat suitability.
+Spotted Wing Drosophila (SWD): SWD lay eggs under the fruit skin, introducing pathogens. Control involves regular harvesting, cold storage, and spinosad or malathion applications during ripening.
+Green June Beetle: Damages ripe fruit with excrement, requiring broad-spectrum insecticides and regular harvests to reduce attraction.
+Strawberry Bud Weevil: Active in early spring, adult weevils clip buds. While blackberries can compensate for some damage, positioning fields away from wooded areas may reduce pest incidence.
+Green Stink Bug: Causes leaf dimpling and scarring. Broad-spectrum insecticides are used for control.
+Flower Thrips: Affects blackberry flowers, potentially contaminating fruit. Spinosad-based insecticides are used as needed.
+Raspberry Cane Borer: Female beetles girdle canes, causing wilting. Severe infestations are managed by removing damaged canes and applying malathion.
+Disease and Weed Control
+Diseases like anthracnose and gray mold require fungicide applications and canopy management to promote drying. Weed control depends on pre-plant suppression and banded herbicide applications, targeting weeds such as bermudagrass and broadleaf dock.
+
+Labor and Production Issues
+Blackberry farming requires intensive manual labor for pruning and tipping. Growers implement sustainable practices, including drip irrigation and cover cropping, to maintain soil health and reduce pest pressures. Cold injury and high pest pressure can negatively impact yields in some years, making thorough pest and disease management essential.
+
+
+
+
+
+Florida Counties and how much Oranges they harvested 
+
+Alachua harvested 23 acres of oranges.
+Gilchrist harvested 15 acres of oranges.
+Hernando harvested 40 acres of oranges.
+Hillsborough harvested 2,698 acres of oranges.
+Lake harvested 5,077 acres of oranges.
+Marion harvested 599 acres of oranges.
+Orange County harvested 1,478 acres of oranges.
+Osceola harvested 4,822 acres of oranges.
+Pasco harvested 853 acres of oranges.
+Pinellas harvested 181 acres of oranges.
+Polk harvested 58,401 acres of oranges.
+Putnam harvested 9 acres of oranges.
+Seminole harvested 427 acres of oranges.
+Sumter harvested 57 acres of oranges.
+Volusia harvested 502 acres of oranges.
+Columbia harvested 4 acres of oranges.
+Duval harvested 1 acre of oranges.
+Lafayette harvested 208 acres of oranges.
+Madison harvested 50 acres of oranges.
+Taylor harvested 236 acres of oranges.
+Bay harvested 20 acres of oranges.
+Franklin harvested 3 acres of oranges.
+Gadsden harvested 12 acres of oranges.
+Jackson harvested 65 acres of oranges.
+Jefferson harvested 309 acres of oranges.
+Leon harvested 13 acres of oranges.
+Okaloosa harvested 3 acres of oranges.
+Santa Rosa harvested 6 acres of oranges.
+Wakulla harvested 8 acres of oranges.
+Walton harvested 6 acres of oranges.
+Washington harvested 3 acres of oranges.
+Brevard harvested 215 acres of oranges.
+Charlotte harvested 5,446 acres of oranges.
+Collier harvested 15,520 acres of oranges.
+De Soto harvested 43,444 acres of oranges.
+Glades harvested 4,173 acres of oranges.
+Hardee harvested 38,811 acres of oranges.
+Hendry harvested 54,334 acres of oranges.
+Highlands harvested 41,737 acres of oranges.
+Indian River harvested 23,799 acres of oranges.
+Lee harvested 3,929 acres of oranges.
+Manatee harvested 8,730 acres of oranges.
+Miami-Dade harvested 186 acres of oranges.
+Okeechobee harvested 1,246 acres of oranges.
+Palm Beach harvested 435 acres of oranges.
+St. Lucie harvested 24,553 acres of oranges.
+
+
+
+
+
+
