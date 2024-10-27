@@ -1,0 +1,414 @@
+We will be talking about Florida Citrus Crop Pests and Control Methods
+Overview
+Citrus crops in Florida, especially oranges and grapefruits, face pest challenges at different growth stages, primarily affecting central and southern Florida. Each pest type, its impact on plant parts, and control methods are detailed below.
+
+1. Mites
+Types: Rust mites, spider mites
+Affected Areas: Citrus leaves, fruits
+Regions: Warmer, humid areas with dense tree canopies in central and southern Florida
+
+Primary Impact: Scarring and discoloration on fruit surfaces, reducing market quality
+Control Methods:
+Miticides: Applied based on seasonal population peaks
+Prevention: Seasonal application schedules to prevent resistance and ensure effective control
+
+
+2. Asian Citrus Psyllid (Diaphorina citri)
+Disease Transmission: Huanglongbing (HLB), also known as citrus greening disease, fatal to citrus trees
+Primary Impact: Severe reduction in fruit quality and overall tree health
+Population Characteristics: Particularly prevalent in southern Florida, supporting year-round reproduction
+Control Methods:
+
+Chemical Control: Systemic insecticides such as imidacloprid
+Biological Control: Use of the parasitoid wasp Tamarixia radiata to suppress psyllid populations
+Integrated Pest Management (IPM): Reduces chemical reliance, mitigates resistance risks
+
+3. Scale Insects
+Types: Armored scales, soft scales
+Affected Areas: Leaves, branches
+Regions: Central and southern Florida with extensive citrus orchards
+Primary Impact: Weakens trees by extracting sap and potentially transmits other pathogens
+Control Methods:
+
+Horticultural Oils: Effective against young scales
+Insect Growth Regulators (IGRs): Target young scale stages
+Biological Control: Encouragement of natural predators such as lady beetles and parasitoid wasps
+
+4. Weevils
+Species: Citrus root weevil, Diaprepes root weevil
+Affected Areas: Roots
+Primary Impact: Damage to roots, leading to nutrient uptake issues, reduced tree vigor, and eventual decline
+Control Methods:
+Biological Control: Entomopathogenic nematodes effective against weevil larvae
+Chemical Control: Soil-applied insecticides targeting adult weevils
+
+5. Leafminers
+Type: Larvae of small moths
+Affected Areas: Young citrus leaves
+Regions: Central and southern Florida
+
+Primary Impact: Tunneling within leaf tissue, leading to curled and distorted leaves, hindered photosynthesis, and reduced growth
+Control Methods:
+Targeted Insecticide Applications: Products like abamectin or spinosad during leaf flushes to minimize impact on beneficial insects
+
+6. Fire Ants
+Role in Orchard: Considered secondary pests
+Affected Areas: Nests near citrus roots
+
+Primary Impact: Exacerbate infestations of other pests by protecting honeydew-producing pests like scales and aphids
+Control Methods:
+Chemical Control: Bait stations and mound treatments to manage fire ant populations
+
+7. Nematodes
+Types: Root-knot nematodes, citrus nematodes
+Affected Areas: Citrus root systems
+
+Regions: Common in sandy soils throughout central Florida
+
+Primary Impact: Reduced water and nutrient absorption by roots
+Control Methods:
+Soil Fumigation and Nematicides: Direct nematode suppression
+Cultural Control: Crop rotation and cover cropping during non-productive seasons to suppress nematode populations
+Integrated Pest Management (IPM) for Florida Citrus
+
+Purpose: Address Florida’s specific climate and pest pressures in citrus orchards
+
+Components:
+Monitoring: Regular tracking of pest populations
+Cultural Controls: Methods to reduce pest habitats
+Chemical-Biological Balance: Combines chemical and biological methods to reduce pesticide use and maintain sustainability
+
+Seasonal Management: Threshold-based applications and ongoing monitoring to reduce unnecessary chemical use, support sustainable practices, and promote environmental conservation
+
+
+Next we will be talking about Kentucky Winter Wheat Crop Pests and Production Practices
+Overview
+
+Kentucky’s winter wheat, grown in rotation with corn and soybeans, benefits from pest, weed, and disease management through rotation. The standard sequence is corn-wheat-double-crop soybean, followed by winter fallow. Mechanization has reduced labor needs, providing stability in production.
+
+Integrated Pest Management (IPM)
+History: Since the 1970s, IPM has been key to Kentucky’s wheat farming, emphasizing scouting, pest identification, and economic threshold-based pesticide use.
+
+Primary Pests and Diseases:
+Insect Pests: Hessian flies, cereal aphids, cereal leaf beetles, and armyworms
+Diseases: Powdery mildew, leaf rust, and stripe rust
+
+Recommendation: Regular scouting to monitor pest populations and disease progression.
+Insect and Mite Pests
+Hessian Fly (Maylota destructor)
+
+Control Timing: Delayed planting after the "fly-free date" of October 10-15
+Prevalence: Common but seldom economically damaging in Kentucky
+Cereal Aphids
+
+Types: Bird Cherry-Oat aphid, English grain aphid, Corn leaf aphid
+Disease Transmission: Vectors for Barley Yellow Dwarf Virus (BYDV), causing yield losses
+Control Thresholds: Set by aphid counts per row foot
+
+Chemical Controls:
+Lambda-cyhalothrin (Warrior)
+Cyfluthrin (Baythroid)
+Zeta-cypermethrin (Mustang Max)
+Cereal Leaf Beetle (Oulema melanopus)
+
+Impact: Invasive species affecting southern Kentucky, though severe outbreaks are rare
+Control: Scouting and treatments such as cyfluthrin (Baythroid) and lambda-cyhalothrin (Warrior)
+Armyworm (Pseudaletia unipuncta)
+
+Control Strategy: Natural predators maintain populations below damaging levels; pheromone traps monitor population changes.
+Disease Management
+Powdery Mildew (Erysiphe graminis)
+
+Preferred Conditions: Cool, damp early to mid-season
+Control:
+Cultural: Resistant varieties, adjusted nitrogen levels
+Chemical: Pyraclostrobin (Headline), propiconazole (Tilt)
+Leaf Rust (Puccinia graminis f.sp. tritici)
+
+Timing: Late-season; spores often arrive from southern states
+Control: Resistant varieties, population management, and residue control
+Stripe Rust (Puccinia striiformis f.sp.tritice)
+
+Conditions: Yellow stripes form along leaf veins in cool, moist climates
+Control: Resistant varieties, early maturing wheat
+Pesticide Application and Control Strategies
+Fungicides: Applied based on disease thresholds and environmental factors
+Common Fungicides: Azoxystrobin (Quadris), propiconazole (Tilt), tebuconazole (Folicur), rotated to prevent resistance
+
+Grain Storage Protection:
+Sanitation: Clean, dry conditions
+Fumigants: Chlorpyrifos-methyl (Storcide II), aluminum phosphide for pests like the Indian meal moth
+Additional Wildlife Challenges
+
+Wildlife Impact: Migratory waterfowl and local wildlife often feed on and trample wheat crops.
+Storage Adaptations: High-moisture storage conditions are adjusted post-June harvest to manage wildlife and maintain grain quality, with insect control as needed.
+
+
+
+Next we will be talking about Tennessee Fresh-Market Tomato Pests Overview
+
+Tomato Fruitworm (Helicoverpa zea): Migrates annually into eastern Tennessee and is the most common pest in tomato fields. These larvae feed directly on tomato fruit, causing holes and internal damage that affects fruit quality and yield.
+
+Stink Bugs (Euschistus servus and Acrosternum hilare): These pests are notorious for piercing tomatoes, leading to fruit discoloration and hard spots, reducing the market quality. Stink bugs hide in field debris, making them challenging to manage.
+
+Thrips (Franklinellia fusca and F. occidentalis): These small insects affect tomato flowers and developing fruit, causing blemishes, scarring, and even fruit drop. Thrips also carry plant viruses that can further damage crops.
+
+Aphids (Macrosiphum euphoribae and Myzus persicae): Aphids infest tomato plants, especially new growth, and cause yellowing, curling leaves. They excrete honeydew, leading to sooty mold and attract other pests.
+
+Colorado Potato Beetles: Known to feed on tomato foliage, these beetles weaken plants by defoliation, affecting overall crop health and productivity.
+
+Flea Beetles: These small beetles chew holes in leaves, leaving a "shothole" appearance. Severe infestations can cause significant leaf loss and impact plant vigor, particularly in young plants.
+
+Fungal Diseases: Notable diseases include powdery mildew and leaf rust, both of which impact yield by attacking foliage and reducing the plant’s photosynthetic ability, leading to diminished growth and fruit production.
+
+
+
+Next we will be talking about Louisiana Sugarcane Crop Pests
+
+Primary Insect Pests
+
+Sugarcane Borer (Diatraea saccharalis): This pest is highly destructive, responsible for 90% of sugarcane-related insect losses. The larvae tunnel into sugarcane stalks, weakening them, stunting growth, and reducing plant weight. They often kill buds and increase susceptibility to diseases.
+
+Mexican Rice Borer: This pest has been identified in western Louisiana’s Calcasieu Parish. Known to pose a serious threat, its spread is closely monitored to prevent widespread damage.
+
+Wireworms: These pests target sugarcane roots, leading to stunted plant growth. Wireworms survive in fields during the off-season, making them challenging to manage.
+
+Diseases Affecting Louisiana Sugarcane
+
+Leaf Scald: Causes bleaching and yellowing on leaves, especially worsened by drought, potentially leading to plant death.
+
+Mosaic Virus: Results in pale, irregular leaf patterns that hinder growth. Symptoms are most visible on young leaves.
+
+Ratoon Stunting Disease: Reduces plant size and vigor, with visible stalk discoloration, often exacerbated by drought.
+
+Red Rot: Affects seed cane, causing rot at nodes and internodes, which accelerates under drought or waterlogged conditions.
+
+Rust (Brown Rust): Causes chlorotic flecks that develop into pustules on leaves, resulting in premature leaf die-off.
+
+Smut: Manifests as black, whip-like structures at stalk tips, leading to narrowed shoots.
+
+White Stripe and Yellow Leaf: Non-infectious striping and yellowing along the mid-vein, primarily affecting young leaves.
+
+Next we will be talking about North Carolina Tobacco Crop Pests
+
+Primary Insect Pests
+
+Hornworms: These caterpillars consume large amounts of foliage, defoliating plants and reducing overall leaf yield, which impacts the quality and quantity of the harvested product.
+
+Tobacco Budworm (Heliothis virescens): Budworms damage tobacco by feeding on leaves, which stunts growth and causes sucker formation, necessitating additional labor to remove these unwanted shoots.
+
+Green Peach Aphid (Myzus persicae): Large infestations reduce yield by creating mold on leaves through honeydew secretion, which attracts sooty mold and stains leaves, further diminishing crop quality.
+
+Flea Beetles (Epitrix hirtipennis): Cause distinct "shot holes" in young plant leaves, impairing photosynthesis and growth, especially harmful to seedlings. Damage threshold levels vary by plant maturity.
+
+Wireworms: These pests affect the roots, weakening plants and stunting their growth. Particularly damaging to young plants and new seedlings due to their root-feeding behavior.
+
+Tobacco Thrips: Thrips are vectors for tomato spotted wilt virus, which stunts plant growth and can lead to plant death, resulting in yield loss.
+
+Occasional Pests
+
+White Fringed Beetles: These beetles may sporadically damage tobacco leaves by chewing, which can affect overall leaf quality and yield.
+
+Japanese Beetles: They cause damage by skeletonizing leaves, impacting photosynthesis and plant health, and are often present in significant numbers during the growing season.
+
+
+North Carolina Strawberry Crop Pests
+
+Primary Insect and Mite Pests
+
+Sap Beetles (Carpophilus lugubris): Feed directly on ripe strawberries, introducing decay organisms that spoil fruit and reduce marketability.
+
+Spotted Wing Drosophila (Drosophila suzukii): Affects ripening strawberries by laying eggs within the fruit, where larvae develop, causing internal decay and rendering berries unmarketable.
+
+Strawberry Bud Weevil (Anthonomus signatus): Known as the "clipper weevil," it damages strawberry flower buds by clipping them off, leading to significant yield loss.
+
+Tarnished Plant Bug (Lygus lineolaris): Feeds on developing strawberries, resulting in deformed or "cat-faced" fruit, which lowers crop quality and aesthetic appeal.
+
+Cyclamen Mites and Two-Spotted Spider Mites: Attack strawberry leaves, causing stippling and potential plant decline, especially harmful in high infestation levels.
+
+Key Diseases Affecting Strawberries
+
+Gray Mold (Botrytis cinerea): A common cause of post-harvest fruit rot in strawberries, especially in high-humidity conditions, leading to significant spoilage.
+
+Anthracnose (Colletotrichum gloeosporioides): Causes fruit rot and can severely impact yield and quality, especially in susceptible varieties.
+
+Red Stele (Phytophthora fragariae): A soil-borne pathogen that thrives in poorly drained soils, leading to root rot and plant decline, ultimately reducing yield.
+
+
+Next we will be talking about North Carolina Sorghum Crop Pests
+Primary Pests Affecting Sorghum
+
+Sugarcane Aphid (Melanaphis sacchari): A critical pest feeding on sorghum leaves and stalks. It secretes honeydew, which encourages fungal growth, impacting the plant’s grain fill and overall health.
+
+Corn Earworm (Helicoverpa zea) and Fall Armyworm (Spodoptera frugiperda): These caterpillars attack grain heads directly, leading to yield reduction and a decrease in crop quality.
+
+Greenbug (Schizaphis graminum) and Yellow Sugarcane Aphid (Sipha flava): Though minor pests, these aphids can cause wilting and promote mold growth on affected plants, compromising crop vitality.
+
+Diseases Affecting Sorghum
+
+Anthracnose (Colletotrichum spp.): Produces tan lesions with darker borders on sorghum foliage, particularly in high-moisture conditions.
+
+Leaf Spot (Gloeocercospora sorghi): Causes target-like lesions on leaves, particularly in areas with frequent rainfall.
+
+Root Rot (Rhizoctonia spp.): Leads to root decay and seedling mortality, especially in cool, damp soil conditions, severely affecting early plant growth.
+
+
+
+Next we will be talking about North Carolina Blackberry Crop Pests
+Primary Pests Affecting Blackberries
+
+Brown Marmorated Stink Bug (BMSB): An invasive pest with a shield-like body, feeding on blackberry fluids through piercing-sucking mouthparts. This process damages the fruit, sometimes introducing an unpleasant odor that compromises market quality.
+
+Japanese Beetle: A ½-inch metallic green beetle that skeletonizes blackberry leaves, weakening the plant and increasing susceptibility to fungal infections.
+
+Spotted Wing Drosophila (SWD): SWD lays eggs just beneath the blackberry fruit skin, where larvae hatch, damaging fruit quality and introducing decay.
+
+Green June Beetle: Gouges ripe blackberries, spoiling them with excrement and reducing fruit marketability.
+
+Strawberry Bud Weevil: This pest clips blackberry buds, causing significant bud loss and potential yield reduction.
+
+Green Stink Bug: Causes leaf dimpling and scarring by feeding on blackberry fluids, similar to BMSB.
+
+Flower Thrips: Thrips feed within blackberry flowers, which can lead to contamination of the fruit.
+
+Raspberry Cane Borer: Female beetles girdle blackberry canes, causing wilting and reducing plant productivity.
+
+Diseases Affecting Blackberries
+
+Anthracnose: Results in cankers on canes and leaves, impacting yield through diminished plant health.
+
+Botrytis (Gray Mold): Leads to post-harvest fruit rot, which is especially prevalent during bloom periods in high-humidity environments.
+
+Orange Rust (Gynoconia nitens): A systemic rust that significantly reduces yield by affecting the entire plant, often requiring early intervention to prevent its spread.
+
+Cane and Leaf Rust: Appears on floricanes and can hinder plant growth and yield without early intervention.
+
+Fire Blight: Presents as shepherd’s crook formations on leaves with potential bacterial ooze, affecting overall plant health.
+
+Next we will be talking about North Carolina Blackberry Crop Pests
+Primary Pests Affecting Blackberries
+
+Brown Marmorated Stink Bug (BMSB): A notable invasive pest that feeds on blackberry fluids using piercing-sucking mouthparts, indirectly damaging the fruit’s quality and sometimes leaving a distinct odor that can impact marketability. Adults have a shield-like body, typically around 1.7 cm long.
+
+Japanese Beetle: Recognizable by its metallic green body, this beetle skeletonizes blackberry leaves, weakening plants and predisposing them to secondary fungal infections. The defoliation they cause can impact plant health and fruit production.
+
+Spotted Wing Drosophila (SWD): SWD lays eggs beneath the blackberry fruit skin, and larvae development introduces pathogens into the fruit, compromising both appearance and quality.
+
+Green June Beetle: This beetle feeds on ripe blackberries, often leaving excrement on the fruit, which reduces marketability and may attract further pest activity.
+
+Strawberry Bud Weevil: Common in early spring, adult weevils clip blackberry buds, resulting in bud loss and potential reductions in fruit yield.
+
+Green Stink Bug: Similar to BMSB, it uses piercing-sucking feeding, leading to leaf dimpling, scarring, and reduced aesthetic and structural quality of the fruit.
+
+Flower Thrips: Thrips feed within blackberry flowers, which can lead to minor deformities or contamination in harvested fruit.
+
+Raspberry Cane Borer: The female borer girdles blackberry canes, causing them to wilt and impeding nutrient flow, which can reduce overall plant productivity.
+
+Primary Diseases Affecting Blackberries
+
+Anthracnose: Causes cankers on blackberry canes and leaves, potentially leading to yield loss as cankered areas affect plant vitality.
+
+Botrytis (Gray Mold): A leading cause of post-harvest fruit rot, botrytis appears most prominently in high-humidity conditions, compromising berry quality after harvest.
+
+Orange Rust: A systemic rust disease that severely reduces yield by affecting the entire plant, typically visible as orange, powdery spores on leaves.
+
+Cane and Leaf Rust: Manifests on floricanes, potentially reducing plant vigor and impacting fruiting if left unchecked.
+
+Fire Blight: Characterized by crook-shaped leaves and possible bacterial ooze, fire blight can weaken the blackberry plant significantly, impacting yield potential.
+
+Now also we we will be exploring Florida Counties and how much Oranges they harvested 
+
+Alachua harvested 23 acres of oranges.
+
+Gilchrist harvested 15 acres of oranges.
+
+Hernando harvested 40 acres of oranges.
+
+Hillsborough harvested 2,698 acres of oranges.
+
+Lake harvested 5,077 acres of oranges.
+
+Marion harvested 599 acres of oranges.
+
+Orange County harvested 1,478 acres of oranges.
+
+Osceola harvested 4,822 acres of oranges.
+
+Pasco harvested 853 acres of oranges.
+
+Pinellas harvested 181 acres of oranges.
+
+Polk harvested 58,401 acres of oranges.
+
+Putnam harvested 9 acres of oranges.
+
+Seminole harvested 427 acres of oranges.
+
+Sumter harvested 57 acres of oranges.
+
+Volusia harvested 502 acres of oranges.
+
+Columbia harvested 4 acres of oranges.
+
+Duval harvested 1 acre of oranges.
+
+Lafayette harvested 208 acres of oranges.
+
+Madison harvested 50 acres of oranges.
+
+Taylor harvested 236 acres of oranges.
+
+Bay harvested 20 acres of oranges.
+
+Franklin harvested 3 acres of oranges.
+
+Gadsden harvested 12 acres of oranges.
+
+Jackson harvested 65 acres of oranges.
+
+Jefferson harvested 309 acres of oranges.
+
+Leon harvested 13 acres of oranges.
+
+Okaloosa harvested 3 acres of oranges.
+
+Santa Rosa harvested 6 acres of oranges.
+
+Wakulla harvested 8 acres of oranges.
+
+Walton harvested 6 acres of oranges.
+
+Washington harvested 3 acres of oranges.
+
+Brevard harvested 215 acres of oranges.
+
+Charlotte harvested 5,446 acres of oranges.
+
+Collier harvested 15,520 acres of oranges.
+
+De Soto harvested 43,444 acres of oranges.
+
+Glades harvested 4,173 acres of oranges.
+
+Hardee harvested 38,811 acres of oranges.
+
+Hendry harvested 54,334 acres of oranges.
+
+Highlands harvested 41,737 acres of oranges.
+
+Indian River harvested 23,799 acres of oranges.
+
+Lee harvested 3,929 acres of oranges.
+
+Manatee harvested 8,730 acres of oranges.
+
+Miami-Dade harvested 186 acres of oranges.
+
+Okeechobee harvested 1,246 acres of oranges.
+
+Palm Beach harvested 435 acres of oranges.
+
+St. Lucie harvested 24,553 acres of oranges.
+
+
+
